@@ -1,0 +1,4951 @@
+email_id,customer_id,interaction_id,date,thread_content,sentiment,escalation_level
+EMAIL-1000,HC-1000,TICKET-5002,2024-02-29,"From: Medical Assistant <medical.assistant@regionalhealthpartners.com>
+Date: 2024-02-29
+Subject: URGENT: Ehr Integration
+
+This is urgent and affecting patient care.
+
+Medication reconciliation data from Cerner not flowing correctly. Providers seeing outdated medication lists. This is causing significant disruption to patient care. COO escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-5563
+Medical Assistant",frustrated,high
+EMAIL-1001,HC-1000,TICKET-5003,2024-06-11,"From: Front Desk <front.desk@regionalhealthpartners.com>
+Date: 2024-06-11
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Front Desk",negative,normal
+EMAIL-1002,HC-1000,TICKET-5005,2025-01-17,"From: Provider <provider@regionalhealthpartners.com>
+Date: 2025-01-17
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Provider",negative,high
+EMAIL-1003,HC-1000,TICKET-5006,2024-01-05,"From: Billing Specialist <billing.specialist@regionalhealthpartners.com>
+Date: 2024-01-05
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Billing Specialist",negative,normal
+EMAIL-1004,HC-1002,TICKET-5011,2024-01-23,"From: IT Admin <it.admin@integratedhealthcarepartners.com>
+Date: 2024-01-23
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+IT Admin",concerned,normal
+EMAIL-1005,HC-1003,TICKET-5015,2024-06-05,"From: Practice Manager <practice.manager@premierhealthcarecenter.com>
+Date: 2024-06-05
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Practice Manager",neutral,normal
+EMAIL-1006,HC-1004,TICKET-5019,2025-02-23,"From: Front Desk <front.desk@regionalhealthgroup.com>
+Date: 2025-02-23
+Subject: URGENT: Clinical Documentation
+
+This is urgent and affecting patient care.
+
+Issue with clinical documentation This is causing significant disruption to patient care. Director of Operations escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+Our leadership is questioning whether we should continue with your platform.
+
+Please call me ASAP: 555-2935
+Front Desk
+
+============================================================
+FOLLOW-UP EMAIL:
+============================================================
+
+From: Front Desk <front.desk@regionalhealthgroup.com>
+Date: 2025-02-26
+Subject: Re: Clinical Documentation
+
+I sent information on ticket #5019 3 days ago and haven't heard back.
+
+This is the second time this month I've had to repeat myself. I'm spending more time explaining our problems than getting them fixed.
+
+Our CMO just asked me if we should look at other platforms. I don't know what to tell them.
+
+Front Desk",frustrated,high
+EMAIL-1007,HC-1004,TICKET-5022,2024-03-17,"From: IT Admin <it.admin@regionalhealthgroup.com>
+Date: 2024-03-17
+Subject: URGENT: Prescription Workflow
+
+I need immediate assistance with a critical issue.
+
+Issue with prescription workflow This is causing significant disruption to patient care. Director of Operations escalating.
+
+This is costing us thousands in delayed revenue.
+
+Our leadership is questioning whether we should continue with your platform.
+
+Please call me ASAP: 555-3235
+IT Admin",frustrated,high
+EMAIL-1008,HC-1004,TICKET-5023,2024-10-30,"From: Medical Assistant <medical.assistant@regionalhealthgroup.com>
+Date: 2024-10-30
+Subject: URGENT: Clinical Documentation
+
+We've been struggling with this for too long.
+
+Issue with clinical documentation This is causing significant disruption to patient care. Director of Operations escalating.
+
+Staff are spending 11 extra hours per week on workarounds.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-8649
+Medical Assistant",urgent,high
+EMAIL-1009,HC-1005,TICKET-5024,2024-10-24,"From: Practice Manager <practice.manager@advancedhealthcaregroup.com>
+Date: 2024-10-24
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",positive,normal
+EMAIL-1010,HC-1005,TICKET-5026,2025-03-24,"From: Practice Manager <practice.manager@advancedhealthcaregroup.com>
+Date: 2025-03-24
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Practice Manager",neutral,normal
+EMAIL-1011,HC-1005,TICKET-5028,2025-01-29,"From: IT Admin <it.admin@advancedhealthcaregroup.com>
+Date: 2025-01-29
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+IT Admin",positive,normal
+EMAIL-1012,HC-1006,TICKET-5031,2025-03-24,"From: Billing Specialist <billing.specialist@premiermedicalpartners.com>
+Date: 2025-03-24
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Billing Specialist",neutral,high
+EMAIL-1013,HC-1006,TICKET-5032,2024-05-13,"From: Front Desk <front.desk@premiermedicalpartners.com>
+Date: 2024-05-13
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",neutral,normal
+EMAIL-1014,HC-1007,TICKET-5036,2024-12-20,"From: Provider <provider@integratedcareassociates.com>
+Date: 2024-12-20
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Provider",neutral,normal
+EMAIL-1015,HC-1007,TICKET-5037,2025-09-19,"From: Medical Assistant <medical.assistant@integratedcareassociates.com>
+Date: 2025-09-19
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",concerned,high
+EMAIL-1016,HC-1008,TICKET-5042,2024-01-19,"From: Provider <provider@communitymedicalsystem.com>
+Date: 2024-01-19
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Provider",neutral,high
+EMAIL-1017,HC-1008,TICKET-5043,2024-04-03,"From: Provider <provider@communitymedicalsystem.com>
+Date: 2024-04-03
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Provider",positive,normal
+EMAIL-1018,HC-1010,TICKET-5048,2025-05-19,"From: Front Desk <front.desk@communitycarecenter.com>
+Date: 2025-05-19
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",neutral,high
+EMAIL-1019,HC-1010,TICKET-5051,2025-08-25,"From: Provider <provider@communitycarecenter.com>
+Date: 2025-08-25
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Provider",positive,high
+EMAIL-1020,HC-1011,TICKET-5052,2024-05-17,"From: Practice Manager <practice.manager@communityhealthsystem.com>
+Date: 2024-05-17
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Practice Manager",concerned,normal
+EMAIL-1021,HC-1011,TICKET-5053,2025-03-19,"From: Medical Assistant <medical.assistant@communityhealthsystem.com>
+Date: 2025-03-19
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1022,HC-1014,TICKET-5060,2024-07-01,"From: Billing Specialist <billing.specialist@advancedhealthsystem.com>
+Date: 2024-07-01
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Billing Specialist",positive,normal
+EMAIL-1023,HC-1014,TICKET-5064,2024-09-13,"From: Billing Specialist <billing.specialist@advancedhealthsystem.com>
+Date: 2024-09-13
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Billing Specialist",positive,high
+EMAIL-1024,HC-1015,TICKET-5071,2024-06-30,"From: Medical Assistant <medical.assistant@regionalmedicalpartners.com>
+Date: 2024-06-30
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1025,HC-1015,TICKET-5073,2024-06-13,"From: Front Desk <front.desk@regionalmedicalpartners.com>
+Date: 2024-06-13
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Front Desk",positive,normal
+EMAIL-1026,HC-1016,TICKET-5077,2025-06-01,"From: Front Desk <front.desk@regionalhealthassociates.com>
+Date: 2025-06-01
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",neutral,high
+EMAIL-1027,HC-1016,TICKET-5079,2025-09-25,"From: IT Admin <it.admin@regionalhealthassociates.com>
+Date: 2025-09-25
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+IT Admin",satisfied,normal
+EMAIL-1028,HC-1016,TICKET-5081,2024-09-06,"From: Front Desk <front.desk@regionalhealthassociates.com>
+Date: 2024-09-06
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",positive,high
+EMAIL-1029,HC-1017,TICKET-5084,2024-07-16,"From: Medical Assistant <medical.assistant@advancedhealthgroup.com>
+Date: 2024-07-16
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1030,HC-1019,TICKET-5093,2024-04-18,"From: Billing Specialist <billing.specialist@communitycarecenter.com>
+Date: 2024-04-18
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Billing Specialist",positive,normal
+EMAIL-1031,HC-1020,TICKET-5095,2025-06-30,"From: Provider <provider@communityhealthcaregroup.com>
+Date: 2025-06-30
+Subject: URGENT: Billing Workflow
+
+I need immediate assistance with a critical issue.
+
+Insurance claims rejecting at unusually high rate (35%) - normally 10%. Major revenue impact. This is causing significant disruption to patient care. Practice Manager escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-5042
+Provider",frustrated,high
+EMAIL-1032,HC-1020,TICKET-5097,2025-07-22,"From: Provider <provider@communityhealthcaregroup.com>
+Date: 2025-07-22
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Provider",negative,high
+EMAIL-1033,HC-1021,TICKET-5101,2025-08-03,"From: Provider <provider@premiermedicalcenter.com>
+Date: 2025-08-03
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Provider",satisfied,high
+EMAIL-1034,HC-1021,TICKET-5104,2025-09-26,"From: Front Desk <front.desk@premiermedicalcenter.com>
+Date: 2025-09-26
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Front Desk",neutral,high
+EMAIL-1035,HC-1021,TICKET-5106,2025-03-14,"From: Medical Assistant <medical.assistant@premiermedicalcenter.com>
+Date: 2025-03-14
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Medical Assistant",satisfied,high
+EMAIL-1036,HC-1023,TICKET-5113,2025-07-06,"From: Billing Specialist <billing.specialist@communityhealthcareassociates.com>
+Date: 2025-07-06
+Subject: URGENT: Patient Portal
+
+This is urgent and affecting patient care.
+
+Appointment request form on portal not submitting. Patients calling saying online booking broken. This is causing significant disruption to patient care. COO escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-4166
+Billing Specialist",frustrated,high
+EMAIL-1037,HC-1023,TICKET-5116,2025-06-10,"From: Provider <provider@communityhealthcareassociates.com>
+Date: 2025-06-10
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Provider",neutral,high
+EMAIL-1038,HC-1023,TICKET-5117,2024-05-29,"From: Practice Manager <practice.manager@communityhealthcareassociates.com>
+Date: 2024-05-29
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",neutral,normal
+EMAIL-1039,HC-1024,TICKET-5118,2025-05-14,"From: Medical Assistant <medical.assistant@advancedhealthgroup.com>
+Date: 2025-05-14
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1040,HC-1024,TICKET-5120,2024-02-10,"From: Provider <provider@advancedhealthgroup.com>
+Date: 2024-02-10
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Provider",neutral,normal
+EMAIL-1041,HC-1026,TICKET-5129,2024-05-17,"From: Medical Assistant <medical.assistant@advancedcarepartners.com>
+Date: 2024-05-17
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",concerned,normal
+EMAIL-1042,HC-1030,TICKET-5141,2025-08-12,"From: Front Desk <front.desk@communityhealthcaregroup.com>
+Date: 2025-08-12
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Front Desk",satisfied,high
+EMAIL-1043,HC-1031,TICKET-5142,2024-03-26,"From: Practice Manager <practice.manager@communityhealthgroup.com>
+Date: 2024-03-26
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",neutral,normal
+EMAIL-1044,HC-1031,TICKET-5145,2024-09-16,"From: Provider <provider@communityhealthgroup.com>
+Date: 2024-09-16
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Provider",neutral,normal
+EMAIL-1045,HC-1031,TICKET-5146,2025-02-10,"From: Provider <provider@communityhealthgroup.com>
+Date: 2025-02-10
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Provider",concerned,normal
+EMAIL-1046,HC-1031,TICKET-5147,2025-01-14,"From: Billing Specialist <billing.specialist@communityhealthgroup.com>
+Date: 2025-01-14
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Billing Specialist",neutral,normal
+EMAIL-1047,HC-1032,TICKET-5149,2024-08-23,"From: Practice Manager <practice.manager@regionalhealthcaregroup.com>
+Date: 2024-08-23
+Subject: URGENT: Patient Portal
+
+We've been struggling with this for too long.
+
+Appointment request form on portal not submitting. Patients calling saying online booking broken. This is causing significant disruption to patient care. IT Director escalating.
+
+This is costing us thousands in delayed revenue.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-4295
+Practice Manager",frustrated,high
+EMAIL-1048,HC-1032,TICKET-5154,2024-06-28,"From: Medical Assistant <medical.assistant@regionalhealthcaregroup.com>
+Date: 2024-06-28
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",negative,normal
+EMAIL-1049,HC-1034,TICKET-5160,2024-12-22,"From: Medical Assistant <medical.assistant@regionalhealthcaresystem.com>
+Date: 2024-12-22
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Medical Assistant",positive,normal
+EMAIL-1050,HC-1034,TICKET-5161,2025-02-17,"From: Front Desk <front.desk@regionalhealthcaresystem.com>
+Date: 2025-02-17
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Front Desk",positive,normal
+EMAIL-1051,HC-1034,TICKET-5162,2025-07-26,"From: Practice Manager <practice.manager@regionalhealthcaresystem.com>
+Date: 2025-07-26
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Practice Manager",positive,high
+EMAIL-1052,HC-1034,TICKET-5163,2024-09-20,"From: Front Desk <front.desk@regionalhealthcaresystem.com>
+Date: 2024-09-20
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Front Desk",neutral,normal
+EMAIL-1053,HC-1036,TICKET-5170,2024-07-13,"From: IT Admin <it.admin@premierhealthcareassociates.com>
+Date: 2024-07-13
+Subject: URGENT: Patient Portal
+
+I need immediate assistance with a critical issue.
+
+Appointment request form on portal not submitting. Patients calling saying online booking broken. This is causing significant disruption to patient care. Chief Medical Officer escalating.
+
+This is costing us thousands in delayed revenue.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-8150
+IT Admin",frustrated,high
+EMAIL-1054,HC-1036,TICKET-5173,2025-05-19,"From: Provider <provider@premierhealthcareassociates.com>
+Date: 2025-05-19
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Provider",negative,normal
+EMAIL-1055,HC-1039,TICKET-5186,2025-06-13,"From: Billing Specialist <billing.specialist@integratedmedicalgroup.com>
+Date: 2025-06-13
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Billing Specialist",positive,normal
+EMAIL-1056,HC-1041,TICKET-5189,2025-01-04,"From: Front Desk <front.desk@advancedcaregroup.com>
+Date: 2025-01-04
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",neutral,normal
+EMAIL-1057,HC-1041,TICKET-5190,2025-09-12,"From: IT Admin <it.admin@advancedcaregroup.com>
+Date: 2025-09-12
+Subject: URGENT: Billing Workflow
+
+This is urgent and affecting patient care.
+
+CPT codes not mapping correctly to Epic procedures. Causing claim denials. This is causing significant disruption to patient care. Director of Operations escalating.
+
+Staff are spending 13 extra hours per week on workarounds.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-1022
+IT Admin",frustrated,high
+EMAIL-1058,HC-1042,TICKET-5196,2025-09-11,"From: Front Desk <front.desk@communitymedicalassociates.com>
+Date: 2025-09-11
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Front Desk",concerned,normal
+EMAIL-1059,HC-1043,TICKET-5205,2025-07-15,"From: IT Admin <it.admin@communitycareassociates.com>
+Date: 2025-07-15
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1060,HC-1044,TICKET-5206,2025-08-28,"From: IT Admin <it.admin@premiermedicalassociates.com>
+Date: 2025-08-28
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+IT Admin",positive,normal
+EMAIL-1061,HC-1046,TICKET-5215,2025-09-19,"From: IT Admin <it.admin@advancedmedicalassociates.com>
+Date: 2025-09-19
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+IT Admin",satisfied,normal
+EMAIL-1062,HC-1048,TICKET-5219,2024-01-23,"From: Medical Assistant <medical.assistant@communitymedicalgroup.com>
+Date: 2024-01-23
+Subject: URGENT: Patient Scheduling
+
+I need immediate assistance with a critical issue.
+
+Double-booking occurring in Provider schedule - happened 5 times this week. Causing patient wait issues. This is causing significant disruption to patient care. Director of Operations escalating.
+
+This is costing us thousands in delayed revenue.
+
+Our leadership is questioning whether we should continue with your platform.
+
+Please call me ASAP: 555-9250
+Medical Assistant",frustrated,high
+EMAIL-1063,HC-1051,TICKET-5225,2025-03-29,"From: Medical Assistant <medical.assistant@advancedhealthsystem.com>
+Date: 2025-03-29
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Medical Assistant",concerned,normal
+EMAIL-1064,HC-1051,TICKET-5226,2024-04-06,"From: IT Admin <it.admin@advancedhealthsystem.com>
+Date: 2024-04-06
+Subject: URGENT: Reporting Analytics
+
+This is urgent and affecting patient care.
+
+Issue with reporting analytics This is causing significant disruption to patient care. Director of Operations escalating.
+
+This is costing us thousands in delayed revenue.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-4576
+IT Admin",frustrated,high
+EMAIL-1065,HC-1052,TICKET-5228,2025-06-17,"From: Billing Specialist <billing.specialist@communityhealthcaresystem.com>
+Date: 2025-06-17
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Billing Specialist",satisfied,high
+EMAIL-1066,HC-1052,TICKET-5229,2024-02-23,"From: Medical Assistant <medical.assistant@communityhealthcaresystem.com>
+Date: 2024-02-23
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1067,HC-1052,TICKET-5231,2024-09-05,"From: IT Admin <it.admin@communityhealthcaresystem.com>
+Date: 2024-09-05
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+IT Admin",positive,high
+EMAIL-1068,HC-1053,TICKET-5233,2024-04-03,"From: IT Admin <it.admin@integratedcarepartners.com>
+Date: 2024-04-03
+Subject: URGENT: Appointment Reminders
+
+We've been struggling with this for too long.
+
+Issue with appointment reminders This is causing significant disruption to patient care. Chief Medical Officer escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-5472
+IT Admin
+
+============================================================
+FOLLOW-UP EMAIL:
+============================================================
+
+From: IT Admin <it.admin@integratedcarepartners.com>
+Date: 2024-04-06
+Subject: Re: Appointment Reminders
+
+I sent information on ticket #5233 3 days ago and haven't heard back.
+
+This is the second time this month I've had to repeat myself. I'm spending more time explaining our problems than getting them fixed.
+
+Our CFO just asked me if we should look at other platforms. I don't know what to tell them.
+
+IT Admin",urgent,high
+EMAIL-1069,HC-1055,TICKET-5242,2024-03-05,"From: IT Admin <it.admin@integratedcareassociates.com>
+Date: 2024-03-05
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1070,HC-1056,TICKET-5243,2025-07-18,"From: Front Desk <front.desk@premierhealthcareassociates.com>
+Date: 2025-07-18
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Front Desk",neutral,high
+EMAIL-1071,HC-1057,TICKET-5248,2024-01-14,"From: Practice Manager <practice.manager@communityhealthcarecenter.com>
+Date: 2024-01-14
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Practice Manager",negative,normal
+EMAIL-1072,HC-1059,TICKET-5250,2025-09-23,"From: Billing Specialist <billing.specialist@integratedhealthcenter.com>
+Date: 2025-09-23
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Billing Specialist",satisfied,normal
+EMAIL-1073,HC-1059,TICKET-5252,2024-07-13,"From: Provider <provider@integratedhealthcenter.com>
+Date: 2024-07-13
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Provider",positive,normal
+EMAIL-1074,HC-1060,TICKET-5255,2025-07-17,"From: Provider <provider@regionalcareassociates.com>
+Date: 2025-07-17
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Provider",neutral,normal
+EMAIL-1075,HC-1061,TICKET-5258,2025-07-30,"From: Provider <provider@regionalcaresystem.com>
+Date: 2025-07-30
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Provider",concerned,normal
+EMAIL-1076,HC-1061,TICKET-5259,2024-09-17,"From: Front Desk <front.desk@regionalcaresystem.com>
+Date: 2024-09-17
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",neutral,normal
+EMAIL-1077,HC-1064,TICKET-5265,2024-11-28,"From: IT Admin <it.admin@integratedhealthgroup.com>
+Date: 2024-11-28
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+IT Admin",concerned,normal
+EMAIL-1078,HC-1066,TICKET-5269,2025-01-26,"From: Billing Specialist <billing.specialist@regionalhealthassociates.com>
+Date: 2025-01-26
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Billing Specialist",positive,high
+EMAIL-1079,HC-1066,TICKET-5271,2025-02-06,"From: Practice Manager <practice.manager@regionalhealthassociates.com>
+Date: 2025-02-06
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",neutral,normal
+EMAIL-1080,HC-1066,TICKET-5272,2024-10-23,"From: Practice Manager <practice.manager@regionalhealthassociates.com>
+Date: 2024-10-23
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Practice Manager",neutral,normal
+EMAIL-1081,HC-1067,TICKET-5274,2024-05-13,"From: Front Desk <front.desk@regionalmedicalassociates.com>
+Date: 2024-05-13
+Subject: URGENT: Patient Scheduling
+
+I need immediate assistance with a critical issue.
+
+Recurring appointment feature not working properly. Patients with standing weekly appointments getting canceled. This is causing significant disruption to patient care. Practice Manager escalating.
+
+Staff are spending 8 extra hours per week on workarounds.
+
+Our leadership is questioning whether we should continue with your platform.
+
+Please call me ASAP: 555-4053
+Front Desk",frustrated,high
+EMAIL-1082,HC-1068,TICKET-5277,2025-08-12,"From: Front Desk <front.desk@advancedhealthcarecenter.com>
+Date: 2025-08-12
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Front Desk",positive,high
+EMAIL-1083,HC-1070,TICKET-5280,2024-08-27,"From: IT Admin <it.admin@advancedcareassociates.com>
+Date: 2024-08-27
+Subject: URGENT: Billing Workflow
+
+We've been struggling with this for too long.
+
+CPT codes not mapping correctly to Allscripts procedures. Causing claim denials. This is causing significant disruption to patient care. IT Director escalating.
+
+Staff are spending 7 extra hours per week on workarounds.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-8004
+IT Admin",frustrated,high
+EMAIL-1084,HC-1070,TICKET-5281,2024-04-25,"From: Provider <provider@advancedcareassociates.com>
+Date: 2024-04-25
+Subject: URGENT: Prescription Workflow
+
+This is urgent and affecting patient care.
+
+Issue with prescription workflow This is causing significant disruption to patient care. IT Director escalating.
+
+Staff are spending 13 extra hours per week on workarounds.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-3185
+Provider
+
+============================================================
+FOLLOW-UP EMAIL:
+============================================================
+
+From: Provider <provider@advancedcareassociates.com>
+Date: 2024-04-28
+Subject: Re: Prescription Workflow
+
+I sent information on ticket #5281 3 days ago and haven't heard back.
+
+This is the second time this month I've had to repeat myself. I'm spending more time explaining our problems than getting them fixed.
+
+Our CMO just asked me if we should look at other platforms. I don't know what to tell them.
+
+Provider",frustrated,high
+EMAIL-1085,HC-1070,TICKET-5283,2025-04-27,"From: Provider <provider@advancedcareassociates.com>
+Date: 2025-04-27
+Subject: URGENT: Ehr Integration
+
+I need immediate assistance with a critical issue.
+
+Medication reconciliation data from Allscripts not flowing correctly. Providers seeing outdated medication lists. This is causing significant disruption to patient care. IT Director escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+Our leadership is questioning whether we should continue with your platform.
+
+Please call me ASAP: 555-8466
+Provider
+
+============================================================
+FOLLOW-UP EMAIL:
+============================================================
+
+From: Provider <provider@advancedcareassociates.com>
+Date: 2025-04-30
+Subject: Re: Ehr Integration
+
+I sent information on ticket #5283 3 days ago and haven't heard back.
+
+This is the second time this month I've had to repeat myself. I'm spending more time explaining our problems than getting them fixed.
+
+Our Board just asked me if we should look at other platforms. I don't know what to tell them.
+
+Provider",frustrated,high
+EMAIL-1086,HC-1071,TICKET-5285,2024-05-24,"From: IT Admin <it.admin@premiermedicalgroup.com>
+Date: 2024-05-24
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1087,HC-1071,TICKET-5286,2024-09-18,"From: IT Admin <it.admin@premiermedicalgroup.com>
+Date: 2024-09-18
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+IT Admin",positive,high
+EMAIL-1088,HC-1073,TICKET-5289,2025-01-30,"From: IT Admin <it.admin@premiermedicalcenter.com>
+Date: 2025-01-30
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1089,HC-1074,TICKET-5293,2025-10-02,"From: Provider <provider@premiercarepartners.com>
+Date: 2025-10-02
+Subject: URGENT: Clinical Documentation
+
+This is urgent and affecting patient care.
+
+Issue with clinical documentation This is causing significant disruption to patient care. Chief Medical Officer escalating.
+
+This is costing us thousands in delayed revenue.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-6861
+Provider",frustrated,high
+EMAIL-1090,HC-1074,TICKET-5295,2024-10-13,"From: Front Desk <front.desk@premiercarepartners.com>
+Date: 2024-10-13
+Subject: URGENT: Billing Workflow
+
+This is urgent and affecting patient care.
+
+Insurance claims rejecting at unusually high rate (35%) - normally 10%. Major revenue impact. This is causing significant disruption to patient care. Chief Medical Officer escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-5055
+Front Desk",urgent,high
+EMAIL-1091,HC-1075,TICKET-5296,2024-03-30,"From: IT Admin <it.admin@integratedhealthpartners.com>
+Date: 2024-03-30
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1092,HC-1075,TICKET-5297,2025-10-02,"From: Provider <provider@integratedhealthpartners.com>
+Date: 2025-10-02
+Subject: URGENT: Appointment Reminders
+
+We've been struggling with this for too long.
+
+Issue with appointment reminders This is causing significant disruption to patient care. Chief Medical Officer escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+Our leadership is questioning whether we should continue with your platform.
+
+Please call me ASAP: 555-4160
+Provider",frustrated,high
+EMAIL-1093,HC-1077,TICKET-5303,2024-11-22,"From: IT Admin <it.admin@integratedhealthpartners.com>
+Date: 2024-11-22
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",satisfied,normal
+EMAIL-1094,HC-1078,TICKET-5310,2025-02-26,"From: Medical Assistant <medical.assistant@advancedmedicalcenter.com>
+Date: 2025-02-26
+Subject: URGENT: Billing Workflow
+
+I need immediate assistance with a critical issue.
+
+CPT codes not mapping correctly to NextGen procedures. Causing claim denials. This is causing significant disruption to patient care. Director of Operations escalating.
+
+This is costing us thousands in delayed revenue.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-6288
+Medical Assistant",frustrated,high
+EMAIL-1095,HC-1078,TICKET-5313,2025-01-24,"From: IT Admin <it.admin@advancedmedicalcenter.com>
+Date: 2025-01-24
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1096,HC-1079,TICKET-5317,2024-11-07,"From: Billing Specialist <billing.specialist@regionalhealthcarepartners.com>
+Date: 2024-11-07
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Billing Specialist",satisfied,normal
+EMAIL-1097,HC-1079,TICKET-5320,2025-02-06,"From: Medical Assistant <medical.assistant@regionalhealthcarepartners.com>
+Date: 2025-02-06
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",positive,normal
+EMAIL-1098,HC-1080,TICKET-5324,2025-06-07,"From: Front Desk <front.desk@regionalcaresystem.com>
+Date: 2025-06-07
+Subject: URGENT: Claims Management
+
+I need immediate assistance with a critical issue.
+
+Issue with claims management This is causing significant disruption to patient care. IT Director escalating.
+
+This is costing us thousands in delayed revenue.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-8444
+Front Desk",frustrated,high
+EMAIL-1099,HC-1081,TICKET-5327,2024-07-04,"From: Practice Manager <practice.manager@regionalcarepartners.com>
+Date: 2024-07-04
+Subject: URGENT: Hipaa Compliance
+
+This is urgent and affecting patient care.
+
+Need audit logs for past 6 months for compliance review. Upcoming HIPAA audit in 2 weeks. This is causing significant disruption to patient care. IT Director escalating.
+
+Staff are spending 8 extra hours per week on workarounds.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-5743
+Practice Manager",frustrated,high
+EMAIL-1100,HC-1081,TICKET-5331,2025-07-14,"From: Medical Assistant <medical.assistant@regionalcarepartners.com>
+Date: 2025-07-14
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",negative,normal
+EMAIL-1101,HC-1081,TICKET-5333,2025-09-09,"From: Practice Manager <practice.manager@regionalcarepartners.com>
+Date: 2025-09-09
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",negative,normal
+EMAIL-1102,HC-1081,TICKET-5334,2024-07-01,"From: IT Admin <it.admin@regionalcarepartners.com>
+Date: 2024-07-01
+Subject: URGENT: Patient Scheduling
+
+We've been struggling with this for too long.
+
+Need to block off provider time for hospital rounds but system won't allow multi-location blocking. This is causing significant disruption to patient care. IT Director escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-4204
+IT Admin",frustrated,high
+EMAIL-1103,HC-1082,TICKET-5337,2025-03-13,"From: Medical Assistant <medical.assistant@communitycareassociates.com>
+Date: 2025-03-13
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1104,HC-1082,TICKET-5341,2025-09-15,"From: Provider <provider@communitycareassociates.com>
+Date: 2025-09-15
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Provider",neutral,normal
+EMAIL-1105,HC-1082,TICKET-5343,2024-07-03,"From: Medical Assistant <medical.assistant@communitycareassociates.com>
+Date: 2024-07-03
+Subject: URGENT: Claims Management
+
+I need immediate assistance with a critical issue.
+
+Issue with claims management This is causing significant disruption to patient care. Director of Operations escalating.
+
+Staff are spending 7 extra hours per week on workarounds.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-8640
+Medical Assistant",frustrated,high
+EMAIL-1106,HC-1084,TICKET-5348,2024-04-26,"From: IT Admin <it.admin@regionalhealthpartners.com>
+Date: 2024-04-26
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1107,HC-1084,TICKET-5350,2025-05-05,"From: Front Desk <front.desk@regionalhealthpartners.com>
+Date: 2025-05-05
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",neutral,normal
+EMAIL-1108,HC-1084,TICKET-5352,2024-02-27,"From: IT Admin <it.admin@regionalhealthpartners.com>
+Date: 2024-02-27
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",positive,normal
+EMAIL-1109,HC-1085,TICKET-5355,2025-01-19,"From: Front Desk <front.desk@communitymedicalsystem.com>
+Date: 2025-01-19
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",positive,normal
+EMAIL-1110,HC-1086,TICKET-5358,2024-11-05,"From: Practice Manager <practice.manager@integratedhealthgroup.com>
+Date: 2024-11-05
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Practice Manager",negative,high
+EMAIL-1111,HC-1087,TICKET-5364,2025-08-31,"From: Practice Manager <practice.manager@advancedhealthcaresystem.com>
+Date: 2025-08-31
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",positive,high
+EMAIL-1112,HC-1089,TICKET-5371,2025-04-27,"From: Practice Manager <practice.manager@communitymedicalassociates.com>
+Date: 2025-04-27
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Practice Manager",negative,normal
+EMAIL-1113,HC-1091,TICKET-5374,2025-06-30,"From: Practice Manager <practice.manager@integratedhealthcaregroup.com>
+Date: 2025-06-30
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",neutral,high
+EMAIL-1114,HC-1091,TICKET-5375,2025-04-24,"From: IT Admin <it.admin@integratedhealthcaregroup.com>
+Date: 2025-04-24
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+IT Admin",neutral,high
+EMAIL-1115,HC-1092,TICKET-5376,2025-04-21,"From: Medical Assistant <medical.assistant@premiermedicalcenter.com>
+Date: 2025-04-21
+Subject: URGENT: Patient Portal
+
+This is urgent and affecting patient care.
+
+Patients reporting can't access lab results through portal. IT showing error: 'unauthorized access'. This is causing significant disruption to patient care. Chief Medical Officer escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+Our leadership is questioning whether we should continue with your platform.
+
+Please call me ASAP: 555-4347
+Medical Assistant
+
+============================================================
+FOLLOW-UP EMAIL:
+============================================================
+
+From: Medical Assistant <medical.assistant@premiermedicalcenter.com>
+Date: 2025-04-24
+Subject: Re: Patient Portal
+
+I sent information on ticket #5376 3 days ago and haven't heard back.
+
+This is the second time this month I've had to repeat myself. I'm spending more time explaining our problems than getting them fixed.
+
+Our CMO just asked me if we should look at other platforms. I don't know what to tell them.
+
+Medical Assistant",frustrated,high
+EMAIL-1116,HC-1093,TICKET-5382,2025-08-27,"From: Provider <provider@communityhealthcaregroup.com>
+Date: 2025-08-27
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Provider",neutral,normal
+EMAIL-1117,HC-1093,TICKET-5383,2025-05-08,"From: IT Admin <it.admin@communityhealthcaregroup.com>
+Date: 2025-05-08
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1118,HC-1097,TICKET-5394,2024-10-15,"From: Provider <provider@premierhealthcareassociates.com>
+Date: 2024-10-15
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Provider",neutral,high
+EMAIL-1119,HC-1098,TICKET-5397,2025-01-03,"From: IT Admin <it.admin@advancedcareassociates.com>
+Date: 2025-01-03
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1120,HC-1098,TICKET-5399,2025-03-23,"From: Front Desk <front.desk@advancedcareassociates.com>
+Date: 2025-03-23
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",positive,high
+EMAIL-1121,HC-1100,TICKET-5407,2024-03-20,"From: Billing Specialist <billing.specialist@regionalcarepartners.com>
+Date: 2024-03-20
+Subject: URGENT: Appointment Reminders
+
+I need immediate assistance with a critical issue.
+
+Issue with appointment reminders This is causing significant disruption to patient care. COO escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-7671
+Billing Specialist",frustrated,high
+EMAIL-1122,HC-1100,TICKET-5408,2024-01-12,"From: Front Desk <front.desk@regionalcarepartners.com>
+Date: 2024-01-12
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Front Desk",neutral,normal
+EMAIL-1123,HC-1101,TICKET-5409,2024-12-05,"From: Billing Specialist <billing.specialist@integratedmedicalcenter.com>
+Date: 2024-12-05
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Billing Specialist",positive,normal
+EMAIL-1124,HC-1102,TICKET-5415,2024-06-03,"From: Medical Assistant <medical.assistant@premierhealthsystem.com>
+Date: 2024-06-03
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1125,HC-1102,TICKET-5416,2024-08-29,"From: Practice Manager <practice.manager@premierhealthsystem.com>
+Date: 2024-08-29
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",neutral,normal
+EMAIL-1126,HC-1102,TICKET-5417,2024-03-27,"From: Medical Assistant <medical.assistant@premierhealthsystem.com>
+Date: 2024-03-27
+Subject: URGENT: Patient Scheduling
+
+I need immediate assistance with a critical issue.
+
+Need to block off provider time for hospital rounds but system won't allow multi-location blocking. This is causing significant disruption to patient care. Director of Operations escalating.
+
+Staff are spending 9 extra hours per week on workarounds.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-1926
+Medical Assistant",frustrated,high
+EMAIL-1127,HC-1103,TICKET-5419,2024-08-03,"From: Billing Specialist <billing.specialist@premiercarecenter.com>
+Date: 2024-08-03
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Billing Specialist",satisfied,normal
+EMAIL-1128,HC-1103,TICKET-5423,2024-11-19,"From: Provider <provider@premiercarecenter.com>
+Date: 2024-11-19
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Provider",positive,normal
+EMAIL-1129,HC-1104,TICKET-5425,2024-09-18,"From: IT Admin <it.admin@advancedhealthcaresystem.com>
+Date: 2024-09-18
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1130,HC-1104,TICKET-5426,2025-08-25,"From: IT Admin <it.admin@advancedhealthcaresystem.com>
+Date: 2025-08-25
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1131,HC-1106,TICKET-5432,2025-08-02,"From: Billing Specialist <billing.specialist@premiercaresystem.com>
+Date: 2025-08-02
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Billing Specialist",neutral,high
+EMAIL-1132,HC-1107,TICKET-5434,2024-11-27,"From: Billing Specialist <billing.specialist@advancedhealthcarepartners.com>
+Date: 2024-11-27
+Subject: URGENT: Clinical Documentation
+
+This is urgent and affecting patient care.
+
+Issue with clinical documentation This is causing significant disruption to patient care. IT Director escalating.
+
+This is costing us thousands in delayed revenue.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-6108
+Billing Specialist",frustrated,high
+EMAIL-1133,HC-1108,TICKET-5435,2025-01-26,"From: Billing Specialist <billing.specialist@integratedhealthassociates.com>
+Date: 2025-01-26
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Billing Specialist",positive,normal
+EMAIL-1134,HC-1108,TICKET-5436,2024-09-28,"From: Medical Assistant <medical.assistant@integratedhealthassociates.com>
+Date: 2024-09-28
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Medical Assistant",positive,high
+EMAIL-1135,HC-1110,TICKET-5442,2025-06-11,"From: Front Desk <front.desk@integratedhealthassociates.com>
+Date: 2025-06-11
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Front Desk",neutral,normal
+EMAIL-1136,HC-1110,TICKET-5443,2024-03-12,"From: IT Admin <it.admin@integratedhealthassociates.com>
+Date: 2024-03-12
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+IT Admin",concerned,normal
+EMAIL-1137,HC-1111,TICKET-5446,2025-07-01,"From: Billing Specialist <billing.specialist@advancedmedicalgroup.com>
+Date: 2025-07-01
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Billing Specialist",satisfied,normal
+EMAIL-1138,HC-1112,TICKET-5449,2025-03-24,"From: Medical Assistant <medical.assistant@integratedcaresystem.com>
+Date: 2025-03-24
+Subject: URGENT: Prescription Workflow
+
+We've been struggling with this for too long.
+
+Issue with prescription workflow This is causing significant disruption to patient care. Chief Medical Officer escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-2916
+Medical Assistant",frustrated,high
+EMAIL-1139,HC-1112,TICKET-5451,2025-05-26,"From: Practice Manager <practice.manager@integratedcaresystem.com>
+Date: 2025-05-26
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",neutral,normal
+EMAIL-1140,HC-1113,TICKET-5452,2024-02-27,"From: Medical Assistant <medical.assistant@integratedhealthcarepartners.com>
+Date: 2024-02-27
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",negative,normal
+EMAIL-1141,HC-1115,TICKET-5454,2025-08-16,"From: Medical Assistant <medical.assistant@integratedmedicalcenter.com>
+Date: 2025-08-16
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Medical Assistant",positive,normal
+EMAIL-1142,HC-1116,TICKET-5458,2024-04-18,"From: Provider <provider@premiermedicalpartners.com>
+Date: 2024-04-18
+Subject: URGENT: Hipaa Compliance
+
+This is urgent and affecting patient care.
+
+Questions about data encryption standards. Internal audit flagged concerns about patient data security. This is causing significant disruption to patient care. COO escalating.
+
+Staff are spending 5 extra hours per week on workarounds.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-2455
+Provider",frustrated,high
+EMAIL-1143,HC-1116,TICKET-5459,2024-07-26,"From: IT Admin <it.admin@premiermedicalpartners.com>
+Date: 2024-07-26
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+IT Admin",negative,normal
+EMAIL-1144,HC-1116,TICKET-5460,2024-11-28,"From: Medical Assistant <medical.assistant@premiermedicalpartners.com>
+Date: 2024-11-28
+Subject: URGENT: Hipaa Compliance
+
+I need immediate assistance with a critical issue.
+
+BAA (Business Associate Agreement) needs review before renewal. Legal team has questions. This is causing significant disruption to patient care. COO escalating.
+
+Staff are spending 7 extra hours per week on workarounds.
+
+Our leadership is questioning whether we should continue with your platform.
+
+Please call me ASAP: 555-2938
+Medical Assistant",urgent,high
+EMAIL-1145,HC-1116,TICKET-5461,2024-08-06,"From: Practice Manager <practice.manager@premiermedicalpartners.com>
+Date: 2024-08-06
+Subject: URGENT: Ehr Integration
+
+I need immediate assistance with a critical issue.
+
+Lab results integration failing for 3 of our 2 locations. Urgent - providers need results for patient care. This is causing significant disruption to patient care. COO escalating.
+
+Staff are spending 15 extra hours per week on workarounds.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-5762
+Practice Manager",urgent,high
+EMAIL-1146,HC-1117,TICKET-5462,2024-05-24,"From: Provider <provider@advancedhealthsystem.com>
+Date: 2024-05-24
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Provider",positive,normal
+EMAIL-1147,HC-1117,TICKET-5464,2024-06-10,"From: Practice Manager <practice.manager@advancedhealthsystem.com>
+Date: 2024-06-10
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Practice Manager",positive,high
+EMAIL-1148,HC-1117,TICKET-5466,2024-07-30,"From: Front Desk <front.desk@advancedhealthsystem.com>
+Date: 2024-07-30
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",neutral,high
+EMAIL-1149,HC-1118,TICKET-5467,2024-06-27,"From: IT Admin <it.admin@integratedmedicalsystem.com>
+Date: 2024-06-27
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1150,HC-1118,TICKET-5468,2024-03-31,"From: Practice Manager <practice.manager@integratedmedicalsystem.com>
+Date: 2024-03-31
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Practice Manager",positive,normal
+EMAIL-1151,HC-1118,TICKET-5471,2024-10-10,"From: Medical Assistant <medical.assistant@integratedmedicalsystem.com>
+Date: 2024-10-10
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Medical Assistant",neutral,high
+EMAIL-1152,HC-1119,TICKET-5478,2025-02-26,"From: Practice Manager <practice.manager@advancedhealthpartners.com>
+Date: 2025-02-26
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",neutral,normal
+EMAIL-1153,HC-1119,TICKET-5480,2025-01-31,"From: Medical Assistant <medical.assistant@advancedhealthpartners.com>
+Date: 2025-01-31
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1154,HC-1119,TICKET-5481,2024-10-03,"From: IT Admin <it.admin@advancedhealthpartners.com>
+Date: 2024-10-03
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1155,HC-1120,TICKET-5482,2024-10-14,"From: Front Desk <front.desk@advancedhealthsystem.com>
+Date: 2024-10-14
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Front Desk",neutral,high
+EMAIL-1156,HC-1121,TICKET-5485,2024-08-09,"From: Billing Specialist <billing.specialist@premiermedicalassociates.com>
+Date: 2024-08-09
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Billing Specialist",negative,normal
+EMAIL-1157,HC-1122,TICKET-5486,2025-03-14,"From: Front Desk <front.desk@integratedmedicalpartners.com>
+Date: 2025-03-14
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Front Desk",neutral,normal
+EMAIL-1158,HC-1123,TICKET-5490,2024-03-26,"From: Front Desk <front.desk@integratedhealthcaresystem.com>
+Date: 2024-03-26
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Front Desk",neutral,normal
+EMAIL-1159,HC-1124,TICKET-5493,2024-01-25,"From: IT Admin <it.admin@regionalmedicalassociates.com>
+Date: 2024-01-25
+Subject: URGENT: Patient Portal
+
+This is urgent and affecting patient care.
+
+Portal messaging feature timing out for 24026 patient messages. Staff having to call patients back. This is causing significant disruption to patient care. COO escalating.
+
+Staff are spending 8 extra hours per week on workarounds.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-6419
+IT Admin",frustrated,high
+EMAIL-1160,HC-1125,TICKET-5494,2025-01-14,"From: Practice Manager <practice.manager@regionalhealthcaregroup.com>
+Date: 2025-01-14
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Practice Manager",positive,normal
+EMAIL-1161,HC-1125,TICKET-5495,2024-03-13,"From: Billing Specialist <billing.specialist@regionalhealthcaregroup.com>
+Date: 2024-03-13
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Billing Specialist",satisfied,normal
+EMAIL-1162,HC-1126,TICKET-5497,2024-12-09,"From: IT Admin <it.admin@communitycareassociates.com>
+Date: 2024-12-09
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+IT Admin",satisfied,normal
+EMAIL-1163,HC-1126,TICKET-5498,2024-02-22,"From: Provider <provider@communitycareassociates.com>
+Date: 2024-02-22
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Provider",neutral,high
+EMAIL-1164,HC-1126,TICKET-5500,2024-07-28,"From: Practice Manager <practice.manager@communitycareassociates.com>
+Date: 2024-07-28
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",satisfied,high
+EMAIL-1165,HC-1128,TICKET-5503,2025-04-08,"From: Practice Manager <practice.manager@communityhealthcareassociates.com>
+Date: 2025-04-08
+Subject: URGENT: Patient Portal
+
+I need immediate assistance with a critical issue.
+
+Appointment request form on portal not submitting. Patients calling saying online booking broken. This is causing significant disruption to patient care. COO escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+Our leadership is questioning whether we should continue with your platform.
+
+Please call me ASAP: 555-1601
+Practice Manager",frustrated,high
+EMAIL-1166,HC-1128,TICKET-5506,2024-10-22,"From: Practice Manager <practice.manager@communityhealthcareassociates.com>
+Date: 2024-10-22
+Subject: URGENT: Hipaa Compliance
+
+I need immediate assistance with a critical issue.
+
+Need audit logs for past 6 months for compliance review. Upcoming HIPAA audit in 2 weeks. This is causing significant disruption to patient care. COO escalating.
+
+This is costing us thousands in delayed revenue.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-9241
+Practice Manager",frustrated,high
+EMAIL-1167,HC-1128,TICKET-5507,2025-05-23,"From: IT Admin <it.admin@communityhealthcareassociates.com>
+Date: 2025-05-23
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",negative,high
+EMAIL-1168,HC-1130,TICKET-5513,2024-09-23,"From: Billing Specialist <billing.specialist@communityhealthsystem.com>
+Date: 2024-09-23
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Billing Specialist",positive,normal
+EMAIL-1169,HC-1131,TICKET-5517,2025-03-27,"From: Provider <provider@communitymedicalcenter.com>
+Date: 2025-03-27
+Subject: URGENT: Clinical Documentation
+
+We've been struggling with this for too long.
+
+Issue with clinical documentation This is causing significant disruption to patient care. Chief Medical Officer escalating.
+
+This is costing us thousands in delayed revenue.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-5710
+Provider",frustrated,high
+EMAIL-1170,HC-1133,TICKET-5524,2025-07-18,"From: Provider <provider@advancedcareassociates.com>
+Date: 2025-07-18
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Provider",concerned,high
+EMAIL-1171,HC-1135,TICKET-5531,2025-04-01,"From: Front Desk <front.desk@premiercaregroup.com>
+Date: 2025-04-01
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Front Desk",concerned,normal
+EMAIL-1172,HC-1137,TICKET-5535,2024-03-08,"From: Front Desk <front.desk@regionalmedicalpartners.com>
+Date: 2024-03-08
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Front Desk",positive,normal
+EMAIL-1173,HC-1137,TICKET-5536,2024-10-06,"From: IT Admin <it.admin@regionalmedicalpartners.com>
+Date: 2024-10-06
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",positive,normal
+EMAIL-1174,HC-1141,TICKET-5553,2024-05-14,"From: IT Admin <it.admin@communityhealthcaresystem.com>
+Date: 2024-05-14
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+IT Admin",satisfied,high
+EMAIL-1175,HC-1142,TICKET-5555,2024-05-01,"From: Medical Assistant <medical.assistant@premierhealthcareassociates.com>
+Date: 2024-05-01
+Subject: URGENT: Billing Workflow
+
+We've been struggling with this for too long.
+
+Insurance claims rejecting at unusually high rate (35%) - normally 10%. Major revenue impact. This is causing significant disruption to patient care. IT Director escalating.
+
+This is costing us thousands in delayed revenue.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-7905
+Medical Assistant",frustrated,high
+EMAIL-1176,HC-1142,TICKET-5558,2024-04-20,"From: Practice Manager <practice.manager@premierhealthcareassociates.com>
+Date: 2024-04-20
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Practice Manager",neutral,high
+EMAIL-1177,HC-1144,TICKET-5567,2024-12-29,"From: Medical Assistant <medical.assistant@premiermedicalpartners.com>
+Date: 2024-12-29
+Subject: URGENT: Insurance Verification
+
+We've been struggling with this for too long.
+
+Issue with insurance verification This is causing significant disruption to patient care. Practice Manager escalating.
+
+Staff are spending 9 extra hours per week on workarounds.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-3643
+Medical Assistant",frustrated,high
+EMAIL-1178,HC-1146,TICKET-5577,2024-10-12,"From: IT Admin <it.admin@regionalhealthsystem.com>
+Date: 2024-10-12
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",positive,normal
+EMAIL-1179,HC-1146,TICKET-5579,2025-06-07,"From: Practice Manager <practice.manager@regionalhealthsystem.com>
+Date: 2025-06-07
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Practice Manager",positive,normal
+EMAIL-1180,HC-1147,TICKET-5582,2024-11-30,"From: Practice Manager <practice.manager@communitycarepartners.com>
+Date: 2024-11-30
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",neutral,high
+EMAIL-1181,HC-1148,TICKET-5587,2024-11-06,"From: Medical Assistant <medical.assistant@communityhealthcaresystem.com>
+Date: 2024-11-06
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1182,HC-1150,TICKET-5591,2024-12-27,"From: Provider <provider@integratedmedicalgroup.com>
+Date: 2024-12-27
+Subject: URGENT: Clinical Documentation
+
+We've been struggling with this for too long.
+
+Issue with clinical documentation This is causing significant disruption to patient care. IT Director escalating.
+
+Staff are spending 5 extra hours per week on workarounds.
+
+Our leadership is questioning whether we should continue with your platform.
+
+Please call me ASAP: 555-8791
+Provider
+
+============================================================
+FOLLOW-UP EMAIL:
+============================================================
+
+From: Provider <provider@integratedmedicalgroup.com>
+Date: 2024-12-30
+Subject: Re: Clinical Documentation
+
+I sent information on ticket #5591 3 days ago and haven't heard back.
+
+This is the second time this month I've had to repeat myself. I'm spending more time explaining our problems than getting them fixed.
+
+Our CMO just asked me if we should look at other platforms. I don't know what to tell them.
+
+Provider",frustrated,high
+EMAIL-1183,HC-1151,TICKET-5597,2025-03-07,"From: Provider <provider@integratedhealthcenter.com>
+Date: 2025-03-07
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Provider",neutral,normal
+EMAIL-1184,HC-1152,TICKET-5599,2024-04-12,"From: Provider <provider@advancedcaresystem.com>
+Date: 2024-04-12
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Provider",negative,normal
+EMAIL-1185,HC-1154,TICKET-5603,2025-08-15,"From: Practice Manager <practice.manager@advancedhealthgroup.com>
+Date: 2025-08-15
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",negative,high
+EMAIL-1186,HC-1154,TICKET-5605,2024-11-05,"From: Provider <provider@advancedhealthgroup.com>
+Date: 2024-11-05
+Subject: URGENT: Reporting Analytics
+
+We've been struggling with this for too long.
+
+Issue with reporting analytics This is causing significant disruption to patient care. Chief Medical Officer escalating.
+
+This is costing us thousands in delayed revenue.
+
+Our leadership is questioning whether we should continue with your platform.
+
+Please call me ASAP: 555-3215
+Provider",frustrated,high
+EMAIL-1187,HC-1158,TICKET-5616,2024-10-11,"From: Practice Manager <practice.manager@integratedmedicalsystem.com>
+Date: 2024-10-11
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",negative,normal
+EMAIL-1188,HC-1158,TICKET-5618,2024-11-01,"From: IT Admin <it.admin@integratedmedicalsystem.com>
+Date: 2024-11-01
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+IT Admin",negative,high
+EMAIL-1189,HC-1159,TICKET-5621,2024-05-05,"From: IT Admin <it.admin@integratedhealthcareassociates.com>
+Date: 2024-05-05
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1190,HC-1159,TICKET-5622,2024-08-29,"From: Medical Assistant <medical.assistant@integratedhealthcareassociates.com>
+Date: 2024-08-29
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1191,HC-1160,TICKET-5624,2025-06-30,"From: Front Desk <front.desk@communitymedicalsystem.com>
+Date: 2025-06-30
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Front Desk",satisfied,normal
+EMAIL-1192,HC-1161,TICKET-5627,2024-02-25,"From: Front Desk <front.desk@advancedcaregroup.com>
+Date: 2024-02-25
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",concerned,normal
+EMAIL-1193,HC-1161,TICKET-5628,2025-01-06,"From: Medical Assistant <medical.assistant@advancedcaregroup.com>
+Date: 2025-01-06
+Subject: URGENT: Appointment Reminders
+
+I need immediate assistance with a critical issue.
+
+Issue with appointment reminders This is causing significant disruption to patient care. Director of Operations escalating.
+
+This is costing us thousands in delayed revenue.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-5398
+Medical Assistant",frustrated,high
+EMAIL-1194,HC-1162,TICKET-5630,2024-08-29,"From: Medical Assistant <medical.assistant@integratedhealthcaresystem.com>
+Date: 2024-08-29
+Subject: URGENT: Clinical Documentation
+
+We've been struggling with this for too long.
+
+Issue with clinical documentation This is causing significant disruption to patient care. Chief Medical Officer escalating.
+
+Staff are spending 11 extra hours per week on workarounds.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-4226
+Medical Assistant",frustrated,high
+EMAIL-1195,HC-1162,TICKET-5631,2024-11-20,"From: Billing Specialist <billing.specialist@integratedhealthcaresystem.com>
+Date: 2024-11-20
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Billing Specialist",concerned,normal
+EMAIL-1196,HC-1162,TICKET-5633,2024-04-12,"From: Practice Manager <practice.manager@integratedhealthcaresystem.com>
+Date: 2024-04-12
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Practice Manager",neutral,high
+EMAIL-1197,HC-1162,TICKET-5634,2025-09-08,"From: Practice Manager <practice.manager@integratedhealthcaresystem.com>
+Date: 2025-09-08
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Practice Manager",neutral,normal
+EMAIL-1198,HC-1162,TICKET-5635,2024-07-07,"From: Medical Assistant <medical.assistant@integratedhealthcaresystem.com>
+Date: 2024-07-07
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1199,HC-1164,TICKET-5637,2024-09-12,"From: IT Admin <it.admin@premiermedicalgroup.com>
+Date: 2024-09-12
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1200,HC-1165,TICKET-5638,2024-11-23,"From: Medical Assistant <medical.assistant@communityhealthsystem.com>
+Date: 2024-11-23
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",positive,normal
+EMAIL-1201,HC-1165,TICKET-5639,2025-08-30,"From: Front Desk <front.desk@communityhealthsystem.com>
+Date: 2025-08-30
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",positive,normal
+EMAIL-1202,HC-1165,TICKET-5640,2025-02-06,"From: Practice Manager <practice.manager@communityhealthsystem.com>
+Date: 2025-02-06
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",neutral,normal
+EMAIL-1203,HC-1165,TICKET-5641,2025-09-18,"From: Front Desk <front.desk@communityhealthsystem.com>
+Date: 2025-09-18
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Front Desk",satisfied,normal
+EMAIL-1204,HC-1166,TICKET-5644,2025-06-22,"From: Front Desk <front.desk@regionalhealthsystem.com>
+Date: 2025-06-22
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Front Desk",negative,normal
+EMAIL-1205,HC-1167,TICKET-5647,2024-07-12,"From: Medical Assistant <medical.assistant@communityhealthcarecenter.com>
+Date: 2024-07-12
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1206,HC-1167,TICKET-5649,2025-04-14,"From: Billing Specialist <billing.specialist@communityhealthcarecenter.com>
+Date: 2025-04-14
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Billing Specialist",concerned,high
+EMAIL-1207,HC-1167,TICKET-5650,2025-02-11,"From: IT Admin <it.admin@communityhealthcarecenter.com>
+Date: 2025-02-11
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1208,HC-1168,TICKET-5652,2024-08-28,"From: IT Admin <it.admin@integratedhealthcaregroup.com>
+Date: 2024-08-28
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",satisfied,normal
+EMAIL-1209,HC-1168,TICKET-5653,2025-09-04,"From: Provider <provider@integratedhealthcaregroup.com>
+Date: 2025-09-04
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Provider",satisfied,normal
+EMAIL-1210,HC-1168,TICKET-5656,2024-05-15,"From: Front Desk <front.desk@integratedhealthcaregroup.com>
+Date: 2024-05-15
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",neutral,high
+EMAIL-1211,HC-1169,TICKET-5657,2024-04-29,"From: Front Desk <front.desk@premiermedicalgroup.com>
+Date: 2024-04-29
+Subject: URGENT: Telehealth Setup
+
+I need immediate assistance with a critical issue.
+
+Issue with telehealth setup This is causing significant disruption to patient care. Practice Manager escalating.
+
+Staff are spending 14 extra hours per week on workarounds.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-4108
+Front Desk",frustrated,high
+EMAIL-1212,HC-1169,TICKET-5662,2025-04-26,"From: Front Desk <front.desk@premiermedicalgroup.com>
+Date: 2025-04-26
+Subject: URGENT: Clinical Documentation
+
+I need immediate assistance with a critical issue.
+
+Issue with clinical documentation This is causing significant disruption to patient care. Practice Manager escalating.
+
+Staff are spending 13 extra hours per week on workarounds.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-1490
+Front Desk
+
+============================================================
+FOLLOW-UP EMAIL:
+============================================================
+
+From: Front Desk <front.desk@premiermedicalgroup.com>
+Date: 2025-04-29
+Subject: Re: Clinical Documentation
+
+I sent information on ticket #5662 3 days ago and haven't heard back.
+
+This is the second time this month I've had to repeat myself. I'm spending more time explaining our problems than getting them fixed.
+
+Our Board just asked me if we should look at other platforms. I don't know what to tell them.
+
+Front Desk",frustrated,high
+EMAIL-1213,HC-1170,TICKET-5667,2025-08-07,"From: Medical Assistant <medical.assistant@advancedmedicalcenter.com>
+Date: 2025-08-07
+Subject: URGENT: Patient Scheduling
+
+This is urgent and affecting patient care.
+
+Recurring appointment feature not working properly. Patients with standing weekly appointments getting canceled. This is causing significant disruption to patient care. Director of Operations escalating.
+
+This is costing us thousands in delayed revenue.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-4157
+Medical Assistant",frustrated,high
+EMAIL-1214,HC-1170,TICKET-5668,2024-04-06,"From: IT Admin <it.admin@advancedmedicalcenter.com>
+Date: 2024-04-06
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",concerned,normal
+EMAIL-1215,HC-1170,TICKET-5669,2025-01-17,"From: Medical Assistant <medical.assistant@advancedmedicalcenter.com>
+Date: 2025-01-17
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1216,HC-1171,TICKET-5677,2024-11-13,"From: Practice Manager <practice.manager@advancedmedicalcenter.com>
+Date: 2024-11-13
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",positive,normal
+EMAIL-1217,HC-1173,TICKET-5680,2025-09-20,"From: Practice Manager <practice.manager@premiercaresystem.com>
+Date: 2025-09-20
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",positive,high
+EMAIL-1218,HC-1173,TICKET-5682,2025-05-22,"From: Front Desk <front.desk@premiercaresystem.com>
+Date: 2025-05-22
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Front Desk",neutral,normal
+EMAIL-1219,HC-1173,TICKET-5684,2024-09-11,"From: Practice Manager <practice.manager@premiercaresystem.com>
+Date: 2024-09-11
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Practice Manager",positive,normal
+EMAIL-1220,HC-1174,TICKET-5686,2025-08-05,"From: Practice Manager <practice.manager@regionalhealthsystem.com>
+Date: 2025-08-05
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",neutral,normal
+EMAIL-1221,HC-1175,TICKET-5690,2024-09-28,"From: Practice Manager <practice.manager@communitycarecenter.com>
+Date: 2024-09-28
+Subject: URGENT: Telehealth Setup
+
+This is urgent and affecting patient care.
+
+Issue with telehealth setup This is causing significant disruption to patient care. IT Director escalating.
+
+Staff are spending 13 extra hours per week on workarounds.
+
+Our leadership is questioning whether we should continue with your platform.
+
+Please call me ASAP: 555-7648
+Practice Manager",frustrated,high
+EMAIL-1222,HC-1175,TICKET-5692,2024-04-29,"From: Front Desk <front.desk@communitycarecenter.com>
+Date: 2024-04-29
+Subject: URGENT: Ehr Integration
+
+We've been struggling with this for too long.
+
+Epic integration stopped syncing patient appointments after last eClinicalWorks update. Appointments from past 48 hours missing. This is causing significant disruption to patient care. IT Director escalating.
+
+Staff are spending 10 extra hours per week on workarounds.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-4411
+Front Desk",frustrated,high
+EMAIL-1223,HC-1175,TICKET-5695,2024-01-17,"From: Medical Assistant <medical.assistant@communitycarecenter.com>
+Date: 2024-01-17
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1224,HC-1176,TICKET-5696,2024-05-28,"From: IT Admin <it.admin@advancedhealthassociates.com>
+Date: 2024-05-28
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1225,HC-1176,TICKET-5700,2024-07-25,"From: Practice Manager <practice.manager@advancedhealthassociates.com>
+Date: 2024-07-25
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",concerned,normal
+EMAIL-1226,HC-1178,TICKET-5702,2024-10-24,"From: Provider <provider@integratedcarecenter.com>
+Date: 2024-10-24
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Provider",neutral,high
+EMAIL-1227,HC-1179,TICKET-5707,2025-03-24,"From: IT Admin <it.admin@regionalhealthcareassociates.com>
+Date: 2025-03-24
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+IT Admin",positive,normal
+EMAIL-1228,HC-1179,TICKET-5709,2025-02-03,"From: Medical Assistant <medical.assistant@regionalhealthcareassociates.com>
+Date: 2025-02-03
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Medical Assistant",satisfied,normal
+EMAIL-1229,HC-1179,TICKET-5710,2024-10-16,"From: Medical Assistant <medical.assistant@regionalhealthcareassociates.com>
+Date: 2024-10-16
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Medical Assistant",positive,normal
+EMAIL-1230,HC-1180,TICKET-5711,2024-06-09,"From: Front Desk <front.desk@communityhealthcenter.com>
+Date: 2024-06-09
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Front Desk",neutral,normal
+EMAIL-1231,HC-1180,TICKET-5713,2025-01-02,"From: Medical Assistant <medical.assistant@communityhealthcenter.com>
+Date: 2025-01-02
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1232,HC-1183,TICKET-5722,2024-05-21,"From: Front Desk <front.desk@premiermedicalassociates.com>
+Date: 2024-05-21
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Front Desk",concerned,high
+EMAIL-1233,HC-1184,TICKET-5724,2024-09-29,"From: IT Admin <it.admin@integratedmedicalsystem.com>
+Date: 2024-09-29
+Subject: URGENT: Telehealth Setup
+
+This is urgent and affecting patient care.
+
+Issue with telehealth setup This is causing significant disruption to patient care. Practice Manager escalating.
+
+Staff are spending 14 extra hours per week on workarounds.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-9690
+IT Admin",frustrated,high
+EMAIL-1234,HC-1186,TICKET-5733,2025-07-11,"From: IT Admin <it.admin@advancedcaresystem.com>
+Date: 2025-07-11
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+IT Admin",positive,normal
+EMAIL-1235,HC-1187,TICKET-5739,2025-04-04,"From: Medical Assistant <medical.assistant@communityhealthassociates.com>
+Date: 2025-04-04
+Subject: URGENT: Clinical Documentation
+
+We've been struggling with this for too long.
+
+Issue with clinical documentation This is causing significant disruption to patient care. Director of Operations escalating.
+
+This is costing us thousands in delayed revenue.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-6014
+Medical Assistant",urgent,high
+EMAIL-1236,HC-1187,TICKET-5742,2024-04-17,"From: Billing Specialist <billing.specialist@communityhealthassociates.com>
+Date: 2024-04-17
+Subject: URGENT: Telehealth Setup
+
+This is urgent and affecting patient care.
+
+Issue with telehealth setup This is causing significant disruption to patient care. Director of Operations escalating.
+
+Staff are spending 5 extra hours per week on workarounds.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-1160
+Billing Specialist
+
+============================================================
+FOLLOW-UP EMAIL:
+============================================================
+
+From: Billing Specialist <billing.specialist@communityhealthassociates.com>
+Date: 2024-04-20
+Subject: Re: Telehealth Setup
+
+I sent information on ticket #5742 3 days ago and haven't heard back.
+
+This is the second time this month I've had to repeat myself. I'm spending more time explaining our problems than getting them fixed.
+
+Our CFO just asked me if we should look at other platforms. I don't know what to tell them.
+
+Billing Specialist",urgent,high
+EMAIL-1237,HC-1188,TICKET-5747,2025-03-02,"From: Front Desk <front.desk@advancedhealthcarepartners.com>
+Date: 2025-03-02
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Front Desk",positive,high
+EMAIL-1238,HC-1189,TICKET-5748,2024-05-12,"From: Front Desk <front.desk@advancedcarecenter.com>
+Date: 2024-05-12
+Subject: URGENT: Prescription Workflow
+
+We've been struggling with this for too long.
+
+Issue with prescription workflow This is causing significant disruption to patient care. Chief Medical Officer escalating.
+
+This is costing us thousands in delayed revenue.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-1892
+Front Desk",frustrated,high
+EMAIL-1239,HC-1190,TICKET-5751,2024-06-05,"From: Billing Specialist <billing.specialist@integratedmedicalassociates.com>
+Date: 2024-06-05
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Billing Specialist",concerned,high
+EMAIL-1240,HC-1190,TICKET-5753,2024-11-08,"From: IT Admin <it.admin@integratedmedicalassociates.com>
+Date: 2024-11-08
+Subject: URGENT: Clinical Documentation
+
+We've been struggling with this for too long.
+
+Issue with clinical documentation This is causing significant disruption to patient care. Director of Operations escalating.
+
+This is costing us thousands in delayed revenue.
+
+Our leadership is questioning whether we should continue with your platform.
+
+Please call me ASAP: 555-1291
+IT Admin",frustrated,high
+EMAIL-1241,HC-1191,TICKET-5754,2024-05-05,"From: Practice Manager <practice.manager@premiercaregroup.com>
+Date: 2024-05-05
+Subject: URGENT: Reporting Analytics
+
+I need immediate assistance with a critical issue.
+
+Issue with reporting analytics This is causing significant disruption to patient care. Practice Manager escalating.
+
+Staff are spending 13 extra hours per week on workarounds.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-7352
+Practice Manager",frustrated,high
+EMAIL-1242,HC-1191,TICKET-5757,2025-04-04,"From: Provider <provider@premiercaregroup.com>
+Date: 2025-04-04
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Provider",neutral,high
+EMAIL-1243,HC-1191,TICKET-5758,2025-02-23,"From: Billing Specialist <billing.specialist@premiercaregroup.com>
+Date: 2025-02-23
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Billing Specialist",neutral,normal
+EMAIL-1244,HC-1192,TICKET-5760,2025-08-08,"From: Practice Manager <practice.manager@communityhealthgroup.com>
+Date: 2025-08-08
+Subject: URGENT: Appointment Reminders
+
+I need immediate assistance with a critical issue.
+
+Issue with appointment reminders This is causing significant disruption to patient care. COO escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-1407
+Practice Manager",frustrated,high
+EMAIL-1245,HC-1193,TICKET-5765,2025-08-26,"From: Practice Manager <practice.manager@regionalcarecenter.com>
+Date: 2025-08-26
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Practice Manager",satisfied,high
+EMAIL-1246,HC-1193,TICKET-5767,2024-04-03,"From: Billing Specialist <billing.specialist@regionalcarecenter.com>
+Date: 2024-04-03
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Billing Specialist",positive,high
+EMAIL-1247,HC-1194,TICKET-5770,2025-02-03,"From: Billing Specialist <billing.specialist@regionalmedicalgroup.com>
+Date: 2025-02-03
+Subject: URGENT: Hipaa Compliance
+
+This is urgent and affecting patient care.
+
+Questions about data encryption standards. Internal audit flagged concerns about patient data security. This is causing significant disruption to patient care. Practice Manager escalating.
+
+Staff are spending 14 extra hours per week on workarounds.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-4480
+Billing Specialist",frustrated,high
+EMAIL-1248,HC-1195,TICKET-5771,2024-05-03,"From: Provider <provider@premiermedicalgroup.com>
+Date: 2024-05-03
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Provider",neutral,high
+EMAIL-1249,HC-1196,TICKET-5776,2025-05-27,"From: Medical Assistant <medical.assistant@regionalmedicalcenter.com>
+Date: 2025-05-27
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",satisfied,normal
+EMAIL-1250,HC-1198,TICKET-5781,2024-11-03,"From: Medical Assistant <medical.assistant@communitycarecenter.com>
+Date: 2024-11-03
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Medical Assistant",neutral,high
+EMAIL-1251,HC-1199,TICKET-5782,2024-10-13,"From: Billing Specialist <billing.specialist@communityhealthsystem.com>
+Date: 2024-10-13
+Subject: URGENT: Insurance Verification
+
+We've been struggling with this for too long.
+
+Issue with insurance verification This is causing significant disruption to patient care. Director of Operations escalating.
+
+Staff are spending 8 extra hours per week on workarounds.
+
+Our leadership is questioning whether we should continue with your platform.
+
+Please call me ASAP: 555-2702
+Billing Specialist",frustrated,high
+EMAIL-1252,HC-1199,TICKET-5784,2024-09-08,"From: Front Desk <front.desk@communityhealthsystem.com>
+Date: 2024-09-08
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",neutral,normal
+EMAIL-1253,HC-1200,TICKET-5785,2024-12-02,"From: Practice Manager <practice.manager@advancedcareassociates.com>
+Date: 2024-12-02
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Practice Manager",positive,high
+EMAIL-1254,HC-1200,TICKET-5786,2024-01-05,"From: Provider <provider@advancedcareassociates.com>
+Date: 2024-01-05
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Provider",satisfied,high
+EMAIL-1255,HC-1200,TICKET-5787,2025-05-15,"From: IT Admin <it.admin@advancedcareassociates.com>
+Date: 2025-05-15
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1256,HC-1200,TICKET-5788,2025-07-05,"From: Practice Manager <practice.manager@advancedcareassociates.com>
+Date: 2025-07-05
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Practice Manager",positive,high
+EMAIL-1257,HC-1201,TICKET-5792,2024-08-14,"From: Practice Manager <practice.manager@advancedmedicalcenter.com>
+Date: 2024-08-14
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Practice Manager",concerned,normal
+EMAIL-1258,HC-1201,TICKET-5793,2025-09-12,"From: IT Admin <it.admin@advancedmedicalcenter.com>
+Date: 2025-09-12
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1259,HC-1203,TICKET-5799,2024-02-23,"From: Front Desk <front.desk@premiercarecenter.com>
+Date: 2024-02-23
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Front Desk",neutral,normal
+EMAIL-1260,HC-1204,TICKET-5804,2024-12-03,"From: Practice Manager <practice.manager@integratedhealthsystem.com>
+Date: 2024-12-03
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",negative,normal
+EMAIL-1261,HC-1205,TICKET-5805,2025-03-18,"From: Billing Specialist <billing.specialist@advancedcaregroup.com>
+Date: 2025-03-18
+Subject: URGENT: Ehr Integration
+
+We've been struggling with this for too long.
+
+Lab results integration failing for 3 of our 1 locations. Urgent - providers need results for patient care. This is causing significant disruption to patient care. IT Director escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-5980
+Billing Specialist",frustrated,high
+EMAIL-1262,HC-1205,TICKET-5806,2024-09-10,"From: Billing Specialist <billing.specialist@advancedcaregroup.com>
+Date: 2024-09-10
+Subject: URGENT: Hipaa Compliance
+
+This is urgent and affecting patient care.
+
+Questions about data encryption standards. Internal audit flagged concerns about patient data security. This is causing significant disruption to patient care. IT Director escalating.
+
+Staff are spending 7 extra hours per week on workarounds.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-2924
+Billing Specialist
+
+============================================================
+FOLLOW-UP EMAIL:
+============================================================
+
+From: Billing Specialist <billing.specialist@advancedcaregroup.com>
+Date: 2024-09-13
+Subject: Re: Hipaa Compliance
+
+I sent information on ticket #5806 3 days ago and haven't heard back.
+
+This is the second time this month I've had to repeat myself. I'm spending more time explaining our problems than getting them fixed.
+
+Our CFO just asked me if we should look at other platforms. I don't know what to tell them.
+
+Billing Specialist",urgent,high
+EMAIL-1263,HC-1206,TICKET-5808,2024-04-07,"From: Practice Manager <practice.manager@communitycaresystem.com>
+Date: 2024-04-07
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",concerned,normal
+EMAIL-1264,HC-1206,TICKET-5813,2025-09-05,"From: Front Desk <front.desk@communitycaresystem.com>
+Date: 2025-09-05
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",neutral,normal
+EMAIL-1265,HC-1207,TICKET-5815,2025-04-09,"From: Practice Manager <practice.manager@integratedhealthcareassociates.com>
+Date: 2025-04-09
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",satisfied,normal
+EMAIL-1266,HC-1207,TICKET-5817,2024-05-09,"From: Front Desk <front.desk@integratedhealthcareassociates.com>
+Date: 2024-05-09
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",positive,normal
+EMAIL-1267,HC-1208,TICKET-5819,2024-11-15,"From: IT Admin <it.admin@communitycarepartners.com>
+Date: 2024-11-15
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+IT Admin",positive,normal
+EMAIL-1268,HC-1209,TICKET-5827,2024-02-13,"From: IT Admin <it.admin@regionalmedicalsystem.com>
+Date: 2024-02-13
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1269,HC-1209,TICKET-5828,2024-08-23,"From: Front Desk <front.desk@regionalmedicalsystem.com>
+Date: 2024-08-23
+Subject: URGENT: Patient Portal
+
+We've been struggling with this for too long.
+
+Appointment request form on portal not submitting. Patients calling saying online booking broken. This is causing significant disruption to patient care. IT Director escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-1399
+Front Desk
+
+============================================================
+FOLLOW-UP EMAIL:
+============================================================
+
+From: Front Desk <front.desk@regionalmedicalsystem.com>
+Date: 2024-08-26
+Subject: Re: Patient Portal
+
+I sent information on ticket #5828 3 days ago and haven't heard back.
+
+This is the second time this month I've had to repeat myself. I'm spending more time explaining our problems than getting them fixed.
+
+Our Board just asked me if we should look at other platforms. I don't know what to tell them.
+
+Front Desk",frustrated,high
+EMAIL-1270,HC-1209,TICKET-5829,2024-12-05,"From: Medical Assistant <medical.assistant@regionalmedicalsystem.com>
+Date: 2024-12-05
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1271,HC-1210,TICKET-5832,2025-01-03,"From: Billing Specialist <billing.specialist@integratedmedicalpartners.com>
+Date: 2025-01-03
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Billing Specialist",positive,high
+EMAIL-1272,HC-1211,TICKET-5836,2024-09-02,"From: Provider <provider@integratedcaresystem.com>
+Date: 2024-09-02
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Provider",positive,normal
+EMAIL-1273,HC-1211,TICKET-5839,2024-09-07,"From: Provider <provider@integratedcaresystem.com>
+Date: 2024-09-07
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Provider",positive,high
+EMAIL-1274,HC-1211,TICKET-5840,2024-06-01,"From: Billing Specialist <billing.specialist@integratedcaresystem.com>
+Date: 2024-06-01
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Billing Specialist",neutral,normal
+EMAIL-1275,HC-1212,TICKET-5844,2025-06-22,"From: Front Desk <front.desk@premierhealthsystem.com>
+Date: 2025-06-22
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",negative,normal
+EMAIL-1276,HC-1213,TICKET-5847,2025-01-18,"From: Practice Manager <practice.manager@premiermedicalassociates.com>
+Date: 2025-01-18
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Practice Manager",negative,normal
+EMAIL-1277,HC-1214,TICKET-5850,2025-05-24,"From: Medical Assistant <medical.assistant@regionalhealthgroup.com>
+Date: 2025-05-24
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1278,HC-1214,TICKET-5851,2024-09-28,"From: Practice Manager <practice.manager@regionalhealthgroup.com>
+Date: 2024-09-28
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Practice Manager",neutral,normal
+EMAIL-1279,HC-1214,TICKET-5852,2025-05-28,"From: Medical Assistant <medical.assistant@regionalhealthgroup.com>
+Date: 2025-05-28
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1280,HC-1216,TICKET-5854,2024-12-03,"From: IT Admin <it.admin@communitymedicalpartners.com>
+Date: 2024-12-03
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+IT Admin",positive,normal
+EMAIL-1281,HC-1216,TICKET-5855,2024-07-14,"From: IT Admin <it.admin@communitymedicalpartners.com>
+Date: 2024-07-14
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+IT Admin",positive,normal
+EMAIL-1282,HC-1218,TICKET-5864,2025-07-04,"From: Provider <provider@advancedmedicalassociates.com>
+Date: 2025-07-04
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Provider",concerned,normal
+EMAIL-1283,HC-1218,TICKET-5865,2024-05-22,"From: Provider <provider@advancedmedicalassociates.com>
+Date: 2024-05-22
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Provider",neutral,high
+EMAIL-1284,HC-1220,TICKET-5871,2025-04-10,"From: Medical Assistant <medical.assistant@regionalmedicalpartners.com>
+Date: 2025-04-10
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Medical Assistant",negative,high
+EMAIL-1285,HC-1220,TICKET-5872,2025-02-24,"From: Medical Assistant <medical.assistant@regionalmedicalpartners.com>
+Date: 2025-02-24
+Subject: URGENT: Insurance Verification
+
+I need immediate assistance with a critical issue.
+
+Issue with insurance verification This is causing significant disruption to patient care. IT Director escalating.
+
+Staff are spending 10 extra hours per week on workarounds.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-5785
+Medical Assistant",frustrated,high
+EMAIL-1286,HC-1222,TICKET-5877,2025-02-12,"From: Provider <provider@regionalcaregroup.com>
+Date: 2025-02-12
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Provider",neutral,normal
+EMAIL-1287,HC-1223,TICKET-5878,2025-04-16,"From: Practice Manager <practice.manager@regionalhealthgroup.com>
+Date: 2025-04-16
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",concerned,normal
+EMAIL-1288,HC-1224,TICKET-5883,2024-08-10,"From: Provider <provider@premierhealthsystem.com>
+Date: 2024-08-10
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Provider",neutral,normal
+EMAIL-1289,HC-1225,TICKET-5885,2024-06-17,"From: Front Desk <front.desk@communityhealthcarecenter.com>
+Date: 2024-06-17
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Front Desk",negative,normal
+EMAIL-1290,HC-1225,TICKET-5886,2025-04-17,"From: Medical Assistant <medical.assistant@communityhealthcarecenter.com>
+Date: 2025-04-17
+Subject: URGENT: Insurance Verification
+
+We've been struggling with this for too long.
+
+Issue with insurance verification This is causing significant disruption to patient care. Practice Manager escalating.
+
+Staff are spending 8 extra hours per week on workarounds.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-5722
+Medical Assistant",urgent,high
+EMAIL-1291,HC-1228,TICKET-5903,2024-08-11,"From: Front Desk <front.desk@communitymedicalgroup.com>
+Date: 2024-08-11
+Subject: URGENT: Insurance Verification
+
+We've been struggling with this for too long.
+
+Issue with insurance verification This is causing significant disruption to patient care. COO escalating.
+
+This is costing us thousands in delayed revenue.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-7329
+Front Desk",frustrated,high
+EMAIL-1292,HC-1230,TICKET-5911,2024-07-28,"From: IT Admin <it.admin@regionalcarepartners.com>
+Date: 2024-07-28
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",concerned,normal
+EMAIL-1293,HC-1231,TICKET-5919,2025-04-23,"From: Medical Assistant <medical.assistant@advancedhealthcaresystem.com>
+Date: 2025-04-23
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",negative,normal
+EMAIL-1294,HC-1231,TICKET-5920,2025-09-12,"From: Front Desk <front.desk@advancedhealthcaresystem.com>
+Date: 2025-09-12
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Front Desk",negative,normal
+EMAIL-1295,HC-1232,TICKET-5926,2024-03-14,"From: Medical Assistant <medical.assistant@communitycareassociates.com>
+Date: 2024-03-14
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",satisfied,normal
+EMAIL-1296,HC-1234,TICKET-5930,2024-05-07,"From: Front Desk <front.desk@regionalhealthgroup.com>
+Date: 2024-05-07
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",concerned,normal
+EMAIL-1297,HC-1234,TICKET-5933,2025-01-05,"From: IT Admin <it.admin@regionalhealthgroup.com>
+Date: 2025-01-05
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1298,HC-1235,TICKET-5936,2025-01-28,"From: Medical Assistant <medical.assistant@integratedmedicalassociates.com>
+Date: 2025-01-28
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1299,HC-1236,TICKET-5939,2024-04-21,"From: Billing Specialist <billing.specialist@communitycaregroup.com>
+Date: 2024-04-21
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Billing Specialist",negative,normal
+EMAIL-1300,HC-1236,TICKET-5941,2024-01-02,"From: Front Desk <front.desk@communitycaregroup.com>
+Date: 2024-01-02
+Subject: URGENT: Hipaa Compliance
+
+I need immediate assistance with a critical issue.
+
+Need audit logs for past 6 months for compliance review. Upcoming HIPAA audit in 2 weeks. This is causing significant disruption to patient care. IT Director escalating.
+
+Staff are spending 7 extra hours per week on workarounds.
+
+Our leadership is questioning whether we should continue with your platform.
+
+Please call me ASAP: 555-6719
+Front Desk",frustrated,high
+EMAIL-1301,HC-1236,TICKET-5943,2024-05-17,"From: Practice Manager <practice.manager@communitycaregroup.com>
+Date: 2024-05-17
+Subject: URGENT: Billing Workflow
+
+We've been struggling with this for too long.
+
+Explanation of Benefits (EOB) posting is 3 weeks behind. Billing team can't reconcile accounts receivable. This is causing significant disruption to patient care. IT Director escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+Our leadership is questioning whether we should continue with your platform.
+
+Please call me ASAP: 555-9895
+Practice Manager
+
+============================================================
+FOLLOW-UP EMAIL:
+============================================================
+
+From: Practice Manager <practice.manager@communitycaregroup.com>
+Date: 2024-05-20
+Subject: Re: Billing Workflow
+
+I sent information on ticket #5943 3 days ago and haven't heard back.
+
+This is the second time this month I've had to repeat myself. I'm spending more time explaining our problems than getting them fixed.
+
+Our Board just asked me if we should look at other platforms. I don't know what to tell them.
+
+Practice Manager",frustrated,high
+EMAIL-1302,HC-1236,TICKET-5944,2024-08-05,"From: Medical Assistant <medical.assistant@communitycaregroup.com>
+Date: 2024-08-05
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Medical Assistant",negative,high
+EMAIL-1303,HC-1238,TICKET-5953,2024-01-04,"From: Medical Assistant <medical.assistant@advancedmedicalgroup.com>
+Date: 2024-01-04
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1304,HC-1238,TICKET-5954,2024-05-05,"From: Medical Assistant <medical.assistant@advancedmedicalgroup.com>
+Date: 2024-05-05
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1305,HC-1240,TICKET-5958,2025-09-19,"From: Front Desk <front.desk@advancedmedicalassociates.com>
+Date: 2025-09-19
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Front Desk",neutral,high
+EMAIL-1306,HC-1240,TICKET-5960,2025-06-16,"From: Practice Manager <practice.manager@advancedmedicalassociates.com>
+Date: 2025-06-16
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Practice Manager",positive,normal
+EMAIL-1307,HC-1241,TICKET-5966,2024-04-02,"From: Provider <provider@communityhealthcenter.com>
+Date: 2024-04-02
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Provider",concerned,normal
+EMAIL-1308,HC-1242,TICKET-5969,2024-10-24,"From: IT Admin <it.admin@advancedhealthsystem.com>
+Date: 2024-10-24
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",positive,high
+EMAIL-1309,HC-1242,TICKET-5970,2024-07-11,"From: Medical Assistant <medical.assistant@advancedhealthsystem.com>
+Date: 2024-07-11
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Medical Assistant",satisfied,normal
+EMAIL-1310,HC-1242,TICKET-5972,2025-02-01,"From: IT Admin <it.admin@advancedhealthsystem.com>
+Date: 2025-02-01
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+IT Admin",positive,normal
+EMAIL-1311,HC-1244,TICKET-5975,2025-05-26,"From: Billing Specialist <billing.specialist@communityhealthgroup.com>
+Date: 2025-05-26
+Subject: URGENT: Appointment Reminders
+
+We've been struggling with this for too long.
+
+Issue with appointment reminders This is causing significant disruption to patient care. Chief Medical Officer escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-4336
+Billing Specialist",urgent,high
+EMAIL-1312,HC-1245,TICKET-5978,2025-01-20,"From: IT Admin <it.admin@advancedcarepartners.com>
+Date: 2025-01-20
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+IT Admin",positive,high
+EMAIL-1313,HC-1245,TICKET-5980,2025-02-05,"From: Provider <provider@advancedcarepartners.com>
+Date: 2025-02-05
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Provider",satisfied,normal
+EMAIL-1314,HC-1247,TICKET-5985,2025-03-28,"From: Medical Assistant <medical.assistant@integratedhealthcareassociates.com>
+Date: 2025-03-28
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1315,HC-1247,TICKET-5989,2025-06-11,"From: Medical Assistant <medical.assistant@integratedhealthcareassociates.com>
+Date: 2025-06-11
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1316,HC-1248,TICKET-5990,2025-02-17,"From: Front Desk <front.desk@regionalhealthcarecenter.com>
+Date: 2025-02-17
+Subject: URGENT: Billing Workflow
+
+I need immediate assistance with a critical issue.
+
+Insurance claims rejecting at unusually high rate (35%) - normally 10%. Major revenue impact. This is causing significant disruption to patient care. IT Director escalating.
+
+This is costing us thousands in delayed revenue.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-3812
+Front Desk",frustrated,high
+EMAIL-1317,HC-1248,TICKET-5992,2024-04-01,"From: IT Admin <it.admin@regionalhealthcarecenter.com>
+Date: 2024-04-01
+Subject: URGENT: Patient Portal
+
+I need immediate assistance with a critical issue.
+
+Appointment request form on portal not submitting. Patients calling saying online booking broken. This is causing significant disruption to patient care. IT Director escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-9985
+IT Admin",urgent,high
+EMAIL-1318,HC-1248,TICKET-5994,2025-06-05,"From: Provider <provider@regionalhealthcarecenter.com>
+Date: 2025-06-05
+Subject: URGENT: Billing Workflow
+
+This is urgent and affecting patient care.
+
+Insurance claims rejecting at unusually high rate (35%) - normally 10%. Major revenue impact. This is causing significant disruption to patient care. IT Director escalating.
+
+Staff are spending 9 extra hours per week on workarounds.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-3118
+Provider",frustrated,high
+EMAIL-1319,HC-1249,TICKET-5998,2025-07-03,"From: Provider <provider@regionalcarecenter.com>
+Date: 2025-07-03
+Subject: URGENT: Reporting Analytics
+
+I need immediate assistance with a critical issue.
+
+Issue with reporting analytics This is causing significant disruption to patient care. IT Director escalating.
+
+This is costing us thousands in delayed revenue.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-3878
+Provider",frustrated,high
+EMAIL-1320,HC-1249,TICKET-5999,2024-05-07,"From: Medical Assistant <medical.assistant@regionalcarecenter.com>
+Date: 2024-05-07
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",negative,normal
+EMAIL-1321,HC-1249,TICKET-6000,2024-07-03,"From: Billing Specialist <billing.specialist@regionalcarecenter.com>
+Date: 2024-07-03
+Subject: URGENT: Ehr Integration
+
+This is urgent and affecting patient care.
+
+Lab results integration failing for 3 of our 1 locations. Urgent - providers need results for patient care. This is causing significant disruption to patient care. IT Director escalating.
+
+Staff are spending 9 extra hours per week on workarounds.
+
+Our leadership is questioning whether we should continue with your platform.
+
+Please call me ASAP: 555-1261
+Billing Specialist",frustrated,high
+EMAIL-1322,HC-1250,TICKET-6003,2024-06-24,"From: Practice Manager <practice.manager@premiermedicalgroup.com>
+Date: 2024-06-24
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Practice Manager",positive,normal
+EMAIL-1323,HC-1250,TICKET-6005,2025-06-19,"From: IT Admin <it.admin@premiermedicalgroup.com>
+Date: 2025-06-19
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+IT Admin",positive,normal
+EMAIL-1324,HC-1251,TICKET-6007,2025-09-08,"From: Billing Specialist <billing.specialist@integratedhealthcarecenter.com>
+Date: 2025-09-08
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Billing Specialist",concerned,normal
+EMAIL-1325,HC-1251,TICKET-6008,2025-09-29,"From: Billing Specialist <billing.specialist@integratedhealthcarecenter.com>
+Date: 2025-09-29
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Billing Specialist",concerned,normal
+EMAIL-1326,HC-1251,TICKET-6012,2025-09-11,"From: Billing Specialist <billing.specialist@integratedhealthcarecenter.com>
+Date: 2025-09-11
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Billing Specialist",concerned,high
+EMAIL-1327,HC-1252,TICKET-6014,2024-05-07,"From: Front Desk <front.desk@communitycarepartners.com>
+Date: 2024-05-07
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",neutral,normal
+EMAIL-1328,HC-1252,TICKET-6019,2025-07-18,"From: Medical Assistant <medical.assistant@communitycarepartners.com>
+Date: 2025-07-18
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",positive,normal
+EMAIL-1329,HC-1254,TICKET-6022,2025-06-09,"From: Medical Assistant <medical.assistant@communityhealthgroup.com>
+Date: 2025-06-09
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1330,HC-1254,TICKET-6023,2024-09-30,"From: Billing Specialist <billing.specialist@communityhealthgroup.com>
+Date: 2024-09-30
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Billing Specialist",neutral,high
+EMAIL-1331,HC-1254,TICKET-6024,2024-09-12,"From: Medical Assistant <medical.assistant@communityhealthgroup.com>
+Date: 2024-09-12
+Subject: URGENT: Appointment Reminders
+
+This is urgent and affecting patient care.
+
+Issue with appointment reminders This is causing significant disruption to patient care. Practice Manager escalating.
+
+Staff are spending 12 extra hours per week on workarounds.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-8151
+Medical Assistant",frustrated,high
+EMAIL-1332,HC-1255,TICKET-6028,2024-06-18,"From: Billing Specialist <billing.specialist@advancedcarepartners.com>
+Date: 2024-06-18
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Billing Specialist",concerned,normal
+EMAIL-1333,HC-1256,TICKET-6031,2024-01-08,"From: IT Admin <it.admin@communityhealthcareassociates.com>
+Date: 2024-01-08
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",positive,normal
+EMAIL-1334,HC-1257,TICKET-6035,2024-12-12,"From: Practice Manager <practice.manager@integratedhealthgroup.com>
+Date: 2024-12-12
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Practice Manager",neutral,normal
+EMAIL-1335,HC-1257,TICKET-6036,2025-05-09,"From: IT Admin <it.admin@integratedhealthgroup.com>
+Date: 2025-05-09
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+IT Admin",satisfied,normal
+EMAIL-1336,HC-1257,TICKET-6038,2024-02-06,"From: Practice Manager <practice.manager@integratedhealthgroup.com>
+Date: 2024-02-06
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Practice Manager",positive,normal
+EMAIL-1337,HC-1258,TICKET-6040,2024-07-09,"From: Front Desk <front.desk@regionalhealthcarecenter.com>
+Date: 2024-07-09
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Front Desk",neutral,normal
+EMAIL-1338,HC-1260,TICKET-6044,2025-03-25,"From: Front Desk <front.desk@communityhealthcarepartners.com>
+Date: 2025-03-25
+Subject: URGENT: Patient Scheduling
+
+This is urgent and affecting patient care.
+
+Double-booking occurring in Provider schedule - happened 5 times this week. Causing patient wait issues. This is causing significant disruption to patient care. IT Director escalating.
+
+Staff are spending 9 extra hours per week on workarounds.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-1996
+Front Desk",frustrated,high
+EMAIL-1339,HC-1261,TICKET-6047,2024-09-29,"From: Front Desk <front.desk@regionalhealthcareassociates.com>
+Date: 2024-09-29
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Front Desk",neutral,high
+EMAIL-1340,HC-1262,TICKET-6053,2024-09-12,"From: IT Admin <it.admin@integratedhealthcaresystem.com>
+Date: 2024-09-12
+Subject: URGENT: Clinical Documentation
+
+This is urgent and affecting patient care.
+
+Issue with clinical documentation This is causing significant disruption to patient care. Director of Operations escalating.
+
+Staff are spending 5 extra hours per week on workarounds.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-9151
+IT Admin",frustrated,high
+EMAIL-1341,HC-1264,TICKET-6059,2024-08-24,"From: Practice Manager <practice.manager@regionalmedicalsystem.com>
+Date: 2024-08-24
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Practice Manager",neutral,normal
+EMAIL-1342,HC-1265,TICKET-6067,2025-01-28,"From: IT Admin <it.admin@regionalhealthcaresystem.com>
+Date: 2025-01-28
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",positive,high
+EMAIL-1343,HC-1267,TICKET-6077,2024-10-05,"From: Provider <provider@communitymedicalcenter.com>
+Date: 2024-10-05
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Provider",positive,normal
+EMAIL-1344,HC-1267,TICKET-6078,2024-01-10,"From: IT Admin <it.admin@communitymedicalcenter.com>
+Date: 2024-01-10
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",positive,normal
+EMAIL-1345,HC-1267,TICKET-6080,2024-08-17,"From: Practice Manager <practice.manager@communitymedicalcenter.com>
+Date: 2024-08-17
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Practice Manager",positive,high
+EMAIL-1346,HC-1269,TICKET-6087,2025-08-20,"From: Front Desk <front.desk@communityhealthsystem.com>
+Date: 2025-08-20
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",concerned,high
+EMAIL-1347,HC-1270,TICKET-6091,2025-04-15,"From: Front Desk <front.desk@communityhealthcarecenter.com>
+Date: 2025-04-15
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",concerned,high
+EMAIL-1348,HC-1271,TICKET-6092,2024-07-03,"From: Medical Assistant <medical.assistant@communitymedicalcenter.com>
+Date: 2024-07-03
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Medical Assistant",neutral,normal
+EMAIL-1349,HC-1271,TICKET-6096,2024-01-14,"From: Practice Manager <practice.manager@communitymedicalcenter.com>
+Date: 2024-01-14
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",concerned,normal
+EMAIL-1350,HC-1272,TICKET-6098,2024-04-18,"From: Practice Manager <practice.manager@integratedcarepartners.com>
+Date: 2024-04-18
+Subject: URGENT: Reporting Analytics
+
+I need immediate assistance with a critical issue.
+
+Issue with reporting analytics This is causing significant disruption to patient care. Practice Manager escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-1969
+Practice Manager
+
+============================================================
+FOLLOW-UP EMAIL:
+============================================================
+
+From: Practice Manager <practice.manager@integratedcarepartners.com>
+Date: 2024-04-21
+Subject: Re: Reporting Analytics
+
+I sent information on ticket #6098 3 days ago and haven't heard back.
+
+This is the second time this month I've had to repeat myself. I'm spending more time explaining our problems than getting them fixed.
+
+Our CMO just asked me if we should look at other platforms. I don't know what to tell them.
+
+Practice Manager",frustrated,high
+EMAIL-1351,HC-1272,TICKET-6100,2024-06-07,"From: Billing Specialist <billing.specialist@integratedcarepartners.com>
+Date: 2024-06-07
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Billing Specialist",neutral,normal
+EMAIL-1352,HC-1272,TICKET-6104,2025-01-28,"From: Practice Manager <practice.manager@integratedcarepartners.com>
+Date: 2025-01-28
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Practice Manager",concerned,normal
+EMAIL-1353,HC-1274,TICKET-6111,2025-05-04,"From: IT Admin <it.admin@premiercarecenter.com>
+Date: 2025-05-04
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+IT Admin",concerned,high
+EMAIL-1354,HC-1275,TICKET-6117,2024-08-12,"From: Practice Manager <practice.manager@integratedhealthcarepartners.com>
+Date: 2024-08-12
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Practice Manager",positive,normal
+EMAIL-1355,HC-1276,TICKET-6121,2024-05-21,"From: Front Desk <front.desk@advancedhealthassociates.com>
+Date: 2024-05-21
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Front Desk",neutral,high
+EMAIL-1356,HC-1276,TICKET-6122,2025-03-10,"From: IT Admin <it.admin@advancedhealthassociates.com>
+Date: 2025-03-10
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1357,HC-1276,TICKET-6123,2025-05-03,"From: Billing Specialist <billing.specialist@advancedhealthassociates.com>
+Date: 2025-05-03
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Billing Specialist",satisfied,normal
+EMAIL-1358,HC-1276,TICKET-6125,2024-07-05,"From: Provider <provider@advancedhealthassociates.com>
+Date: 2024-07-05
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Provider",positive,normal
+EMAIL-1359,HC-1277,TICKET-6128,2024-06-26,"From: Front Desk <front.desk@advancedhealthassociates.com>
+Date: 2024-06-26
+Subject: URGENT: Reporting Analytics
+
+We've been struggling with this for too long.
+
+Issue with reporting analytics This is causing significant disruption to patient care. Director of Operations escalating.
+
+This is costing us thousands in delayed revenue.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-9555
+Front Desk
+
+============================================================
+FOLLOW-UP EMAIL:
+============================================================
+
+From: Front Desk <front.desk@advancedhealthassociates.com>
+Date: 2024-06-29
+Subject: Re: Reporting Analytics
+
+I sent information on ticket #6128 3 days ago and haven't heard back.
+
+This is the second time this month I've had to repeat myself. I'm spending more time explaining our problems than getting them fixed.
+
+Our CMO just asked me if we should look at other platforms. I don't know what to tell them.
+
+Front Desk",urgent,high
+EMAIL-1360,HC-1277,TICKET-6130,2024-08-20,"From: Practice Manager <practice.manager@advancedhealthassociates.com>
+Date: 2024-08-20
+Subject: URGENT: Insurance Verification
+
+We've been struggling with this for too long.
+
+Issue with insurance verification This is causing significant disruption to patient care. Director of Operations escalating.
+
+Staff are spending 10 extra hours per week on workarounds.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-7997
+Practice Manager
+
+============================================================
+FOLLOW-UP EMAIL:
+============================================================
+
+From: Practice Manager <practice.manager@advancedhealthassociates.com>
+Date: 2024-08-23
+Subject: Re: Insurance Verification
+
+I sent information on ticket #6130 3 days ago and haven't heard back.
+
+This is the second time this month I've had to repeat myself. I'm spending more time explaining our problems than getting them fixed.
+
+Our Board just asked me if we should look at other platforms. I don't know what to tell them.
+
+Practice Manager",urgent,high
+EMAIL-1361,HC-1278,TICKET-6133,2025-02-18,"From: Billing Specialist <billing.specialist@advancedcarepartners.com>
+Date: 2025-02-18
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Billing Specialist",positive,normal
+EMAIL-1362,HC-1278,TICKET-6136,2024-08-04,"From: Billing Specialist <billing.specialist@advancedcarepartners.com>
+Date: 2024-08-04
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Billing Specialist",neutral,normal
+EMAIL-1363,HC-1279,TICKET-6139,2024-11-18,"From: Billing Specialist <billing.specialist@regionalmedicalcenter.com>
+Date: 2024-11-18
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Billing Specialist",neutral,high
+EMAIL-1364,HC-1281,TICKET-6147,2025-01-03,"From: IT Admin <it.admin@communitymedicalgroup.com>
+Date: 2025-01-03
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+IT Admin",positive,normal
+EMAIL-1365,HC-1282,TICKET-6151,2024-10-29,"From: Billing Specialist <billing.specialist@regionalhealthassociates.com>
+Date: 2024-10-29
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Would be happy to be a reference if you need one.
+
+Thanks,
+Billing Specialist",satisfied,high
+EMAIL-1366,HC-1283,TICKET-6156,2024-11-17,"From: Provider <provider@communitymedicalsystem.com>
+Date: 2024-11-17
+Subject: URGENT: Telehealth Setup
+
+This is urgent and affecting patient care.
+
+Issue with telehealth setup This is causing significant disruption to patient care. COO escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+Our leadership is questioning whether we should continue with your platform.
+
+Please call me ASAP: 555-5516
+Provider",frustrated,high
+EMAIL-1367,HC-1284,TICKET-6159,2025-08-06,"From: Front Desk <front.desk@integratedcaresystem.com>
+Date: 2025-08-06
+Subject: URGENT: Insurance Verification
+
+We've been struggling with this for too long.
+
+Issue with insurance verification This is causing significant disruption to patient care. COO escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+This cannot wait any longer.
+
+Please call me ASAP: 555-2629
+Front Desk",frustrated,high
+EMAIL-1368,HC-1284,TICKET-6162,2024-07-23,"From: Billing Specialist <billing.specialist@integratedcaresystem.com>
+Date: 2024-07-23
+Subject: URGENT: Insurance Verification
+
+This is urgent and affecting patient care.
+
+Issue with insurance verification This is causing significant disruption to patient care. COO escalating.
+
+Patients are complaining and it's affecting our reputation.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-5405
+Billing Specialist",urgent,high
+EMAIL-1369,HC-1286,TICKET-6166,2025-01-05,"From: Medical Assistant <medical.assistant@regionalmedicalgroup.com>
+Date: 2025-01-05
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Medical Assistant",positive,normal
+EMAIL-1370,HC-1286,TICKET-6168,2024-10-07,"From: IT Admin <it.admin@regionalmedicalgroup.com>
+Date: 2024-10-07
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Interested in learning about upcoming features.
+
+Thanks,
+IT Admin",positive,normal
+EMAIL-1371,HC-1287,TICKET-6172,2025-03-23,"From: Provider <provider@integratedcaresystem.com>
+Date: 2025-03-23
+Subject: Thank you for the quick response
+
+I wanted to reach out with some positive feedback.
+
+Our providers are really happy with the improvements you've made.
+
+Looking forward to continuing our partnership.
+
+Thanks,
+Provider",positive,normal
+EMAIL-1372,HC-1287,TICKET-6174,2024-11-27,"From: Front Desk <front.desk@integratedcaresystem.com>
+Date: 2024-11-27
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Front Desk",satisfied,normal
+EMAIL-1373,HC-1292,TICKET-6190,2025-02-09,"From: Provider <provider@communityhealthgroup.com>
+Date: 2025-02-09
+Subject: Great support experience
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Provider",satisfied,high
+EMAIL-1374,HC-1293,TICKET-6194,2024-09-04,"From: IT Admin <it.admin@integratedhealthcaresystem.com>
+Date: 2024-09-04
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+Your team was incredibly responsive on our recent issue.
+
+Interested in learning about upcoming features.
+
+Thanks,
+IT Admin",neutral,normal
+EMAIL-1375,HC-1294,TICKET-6197,2024-05-09,"From: Front Desk <front.desk@regionalcarecenter.com>
+Date: 2024-05-09
+Subject: URGENT: Reporting Analytics
+
+This is urgent and affecting patient care.
+
+Issue with reporting analytics This is causing significant disruption to patient care. Director of Operations escalating.
+
+Staff are spending 5 extra hours per week on workarounds.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-7581
+Front Desk",frustrated,high
+EMAIL-1376,HC-1294,TICKET-6199,2024-01-27,"From: Provider <provider@regionalcarecenter.com>
+Date: 2024-01-27
+Subject: URGENT: Insurance Verification
+
+This is urgent and affecting patient care.
+
+Issue with insurance verification This is causing significant disruption to patient care. Director of Operations escalating.
+
+This is costing us thousands in delayed revenue.
+
+Our leadership is questioning whether we should continue with your platform.
+
+Please call me ASAP: 555-6553
+Provider",frustrated,high
+EMAIL-1377,HC-1297,TICKET-6205,2024-05-25,"From: Practice Manager <practice.manager@premiermedicalpartners.com>
+Date: 2024-05-25
+Subject: Positive feedback to share
+
+I wanted to reach out with some positive feedback.
+
+The new feature you rolled out is exactly what we needed.
+
+Interested in learning about upcoming features.
+
+Thanks,
+Practice Manager",negative,normal
+EMAIL-1378,HC-1297,TICKET-6206,2025-01-05,"From: Practice Manager <practice.manager@premiermedicalpartners.com>
+Date: 2025-01-05
+Subject: URGENT: Billing Workflow
+
+This is urgent and affecting patient care.
+
+Explanation of Benefits (EOB) posting is 3 weeks behind. Billing team can't reconcile accounts receivable. This is causing significant disruption to patient care. Director of Operations escalating.
+
+This is costing us thousands in delayed revenue.
+
+Our leadership is questioning whether we should continue with your platform.
+
+Please call me ASAP: 555-7319
+Practice Manager",frustrated,high
+EMAIL-1379,HC-1298,TICKET-6209,2024-07-01,"From: Billing Specialist <billing.specialist@communityhealthcareassociates.com>
+Date: 2024-07-01
+Subject: URGENT: Appointment Reminders
+
+This is urgent and affecting patient care.
+
+Issue with appointment reminders This is causing significant disruption to patient care. IT Director escalating.
+
+This is costing us thousands in delayed revenue.
+
+We need this resolved by end of week.
+
+Please call me ASAP: 555-2349
+Billing Specialist",frustrated,high

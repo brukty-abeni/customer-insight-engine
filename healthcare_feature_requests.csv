@@ -1,0 +1,405 @@
+request_id,customer_id,date,feature_requested,description,business_impact,votes,status,urgency
+FR-1000,HC-1001,2024-08-21,Lab results integration,Reporting doesn't show metrics leadership needs,High - blocking workflow,35,Shipped,Medium
+FR-1001,HC-1002,2024-02-24,Patient payment plans,Scheduling conflicts between multiple providers,Medium - workaround exists,12,Shipped,Low
+FR-1002,HC-1002,2024-03-07,Patient waitlist management,Staff spending too much time on manual data entry,Low - nice to have,24,Shipped,Critical
+FR-1003,HC-1002,2024-12-21,Patient payment plans,Insurance verification taking 15+ minutes per patient,High - blocking workflow,40,In development,Critical
+FR-1004,HC-1003,2024-10-09,Multi-location scheduling view,Compliance audit preparation is extremely time-consuming,Low - nice to have,13,Under review,Low
+FR-1005,HC-1004,2024-05-16,Prior authorization automation,"No-show rate impacting revenue, need better reminders",Low - nice to have,42,Shipped,Medium
+FR-1006,HC-1004,2025-07-05,Clinical decision support alerts,"Patient portal adoption is low, too complex for elderly patients",High - blocking workflow,17,Declined,Low
+FR-1007,HC-1004,2024-05-27,Telemedicine video quality improvements,Scheduling conflicts between multiple providers,Medium - workaround exists,7,Under review,Critical
+FR-1008,HC-1004,2025-01-01,Multi-location scheduling view,EHR integration frequently breaks after Epic updates,High - blocking workflow,17,Declined,Critical
+FR-1009,HC-1005,2024-06-14,Referral tracking workflow,"No-show rate impacting revenue, need better reminders",Low - nice to have,24,Planned,High
+FR-1010,HC-1005,2024-01-31,Patient payment plans,EHR integration frequently breaks after Epic updates,Medium - workaround exists,2,Under review,Critical
+FR-1011,HC-1005,2025-02-17,Multi-location scheduling view,Billing staff overwhelmed with claim rejections,Medium - workaround exists,35,Shipped,Low
+FR-1012,HC-1010,2024-09-15,Patient payment plans,EHR integration frequently breaks after Epic updates,High - blocking workflow,28,In development,Low
+FR-1013,HC-1013,2024-03-24,Lab results integration,Cannot easily track referrals to specialists,High - blocking workflow,33,Declined,Medium
+FR-1014,HC-1013,2024-01-21,Multi-location scheduling view,Staff spending too much time on manual data entry,Low - nice to have,21,Under review,Medium
+FR-1015,HC-1013,2024-04-07,Patient waitlist management,Staff spending too much time on manual data entry,Low - nice to have,10,Under review,Critical
+FR-1016,HC-1016,2025-08-04,Multi-location scheduling view,"Patient portal adoption is low, too complex for elderly patients",High - blocking workflow,46,Planned,High
+FR-1017,HC-1017,2025-05-25,Patient waitlist management,Reporting doesn't show metrics leadership needs,High - blocking workflow,9,In development,Critical
+FR-1018,HC-1018,2024-06-07,Multi-location scheduling view,"Patient portal adoption is low, too complex for elderly patients",Low - nice to have,6,Planned,Low
+FR-1019,HC-1018,2024-06-30,Telemedicine video quality improvements,Insurance verification taking 15+ minutes per patient,Medium - workaround exists,42,Under review,Critical
+FR-1020,HC-1019,2024-05-03,Clinical decision support alerts,Compliance audit preparation is extremely time-consuming,High - blocking workflow,35,In development,High
+FR-1021,HC-1019,2025-08-27,Telemedicine video quality improvements,Insurance verification taking 15+ minutes per patient,High - blocking workflow,18,Shipped,High
+FR-1022,HC-1019,2025-09-09,Patient waitlist management,Scheduling conflicts between multiple providers,Medium - workaround exists,19,Shipped,Low
+FR-1023,HC-1020,2024-04-29,Telemedicine video quality improvements,EHR integration frequently breaks after Epic updates,Medium - workaround exists,25,Planned,Medium
+FR-1024,HC-1022,2025-05-17,Referral tracking workflow,Billing staff overwhelmed with claim rejections,High - blocking workflow,10,In development,Critical
+FR-1025,HC-1022,2025-05-06,Multi-location scheduling view,EHR integration frequently breaks after Epic updates,Low - nice to have,17,Under review,Medium
+FR-1026,HC-1022,2025-06-23,Multi-location scheduling view,Scheduling conflicts between multiple providers,Low - nice to have,36,Declined,Low
+FR-1027,HC-1023,2024-07-24,Clinical decision support alerts,"Patient portal adoption is low, too complex for elderly patients",High - blocking workflow,31,Shipped,High
+FR-1028,HC-1023,2024-10-26,Prior authorization automation,Billing staff overwhelmed with claim rejections,Medium - workaround exists,32,Shipped,Critical
+FR-1029,HC-1024,2025-05-18,Insurance eligibility real-time checks,"Patient portal adoption is low, too complex for elderly patients",Low - nice to have,18,Shipped,Low
+FR-1030,HC-1026,2024-10-21,Enhanced ePrescribing integration,Reporting doesn't show metrics leadership needs,High - blocking workflow,18,Planned,Critical
+FR-1031,HC-1026,2024-11-10,Multi-location scheduling view,Scheduling conflicts between multiple providers,Low - nice to have,1,Planned,Medium
+FR-1032,HC-1026,2024-02-19,Telemedicine video quality improvements,Staff spending too much time on manual data entry,High - blocking workflow,14,In development,Low
+FR-1033,HC-1026,2024-07-11,Lab results integration,Reporting doesn't show metrics leadership needs,High - blocking workflow,8,Shipped,High
+FR-1034,HC-1027,2024-02-15,Referral tracking workflow,EHR integration frequently breaks after Epic updates,Medium - workaround exists,15,Planned,High
+FR-1035,HC-1027,2024-11-23,Insurance eligibility real-time checks,"No-show rate impacting revenue, need better reminders",Medium - workaround exists,34,Planned,Critical
+FR-1036,HC-1030,2024-04-29,Clinical decision support alerts,Staff spending too much time on manual data entry,High - blocking workflow,1,In development,High
+FR-1037,HC-1030,2025-02-03,Referral tracking workflow,"Patient portal adoption is low, too complex for elderly patients",Medium - workaround exists,21,Under review,High
+FR-1038,HC-1030,2024-05-25,Multi-location scheduling view,"No-show rate impacting revenue, need better reminders",Low - nice to have,42,In development,Low
+FR-1039,HC-1030,2025-08-07,Clinical decision support alerts,"No-show rate impacting revenue, need better reminders",Low - nice to have,1,In development,Low
+FR-1040,HC-1031,2025-03-01,Prior authorization automation,Billing staff overwhelmed with claim rejections,Medium - workaround exists,20,Planned,Low
+FR-1041,HC-1031,2024-09-16,Multi-location scheduling view,Staff spending too much time on manual data entry,Low - nice to have,47,Shipped,Critical
+FR-1042,HC-1031,2025-04-04,Patient waitlist management,"No-show rate impacting revenue, need better reminders",High - blocking workflow,36,Under review,Critical
+FR-1043,HC-1031,2024-06-11,Patient payment plans,EHR integration frequently breaks after Epic updates,High - blocking workflow,39,Declined,Medium
+FR-1044,HC-1033,2025-02-11,Clinical decision support alerts,Reporting doesn't show metrics leadership needs,Medium - workaround exists,7,In development,Medium
+FR-1045,HC-1033,2024-04-21,Insurance eligibility real-time checks,Billing staff overwhelmed with claim rejections,High - blocking workflow,22,Under review,Low
+FR-1046,HC-1035,2024-02-06,Patient payment plans,Cannot easily track referrals to specialists,High - blocking workflow,45,Under review,High
+FR-1047,HC-1039,2024-03-10,Referral tracking workflow,Billing staff overwhelmed with claim rejections,Low - nice to have,8,In development,Low
+FR-1048,HC-1039,2024-05-26,Patient payment plans,Scheduling conflicts between multiple providers,High - blocking workflow,27,Declined,High
+FR-1049,HC-1040,2024-11-21,Enhanced ePrescribing integration,Scheduling conflicts between multiple providers,High - blocking workflow,14,Planned,Medium
+FR-1050,HC-1040,2024-09-13,Patient waitlist management,"Patient portal adoption is low, too complex for elderly patients",Medium - workaround exists,46,Planned,Critical
+FR-1051,HC-1047,2025-03-25,Enhanced ePrescribing integration,Cannot easily track referrals to specialists,High - blocking workflow,11,Planned,Medium
+FR-1052,HC-1047,2025-07-24,Patient waitlist management,Insurance verification taking 15+ minutes per patient,Low - nice to have,6,In development,Critical
+FR-1053,HC-1047,2024-04-24,Insurance eligibility real-time checks,Billing staff overwhelmed with claim rejections,Low - nice to have,21,Declined,Critical
+FR-1054,HC-1048,2024-06-22,Lab results integration,"Patient portal adoption is low, too complex for elderly patients",High - blocking workflow,33,Planned,Critical
+FR-1055,HC-1048,2024-08-27,Enhanced ePrescribing integration,Billing staff overwhelmed with claim rejections,High - blocking workflow,19,Declined,Critical
+FR-1056,HC-1049,2025-08-03,Insurance eligibility real-time checks,"No-show rate impacting revenue, need better reminders",Low - nice to have,24,Under review,Critical
+FR-1057,HC-1049,2024-01-21,Patient payment plans,Scheduling conflicts between multiple providers,Low - nice to have,18,Shipped,Medium
+FR-1058,HC-1049,2025-09-22,Prior authorization automation,Cannot easily track referrals to specialists,Low - nice to have,35,Planned,Low
+FR-1059,HC-1050,2024-12-19,Patient payment plans,Cannot easily track referrals to specialists,High - blocking workflow,43,Shipped,Medium
+FR-1060,HC-1050,2024-08-17,Patient waitlist management,Compliance audit preparation is extremely time-consuming,Low - nice to have,37,Planned,Low
+FR-1061,HC-1050,2024-09-20,Patient waitlist management,"Patient portal adoption is low, too complex for elderly patients",Low - nice to have,19,Under review,Low
+FR-1062,HC-1050,2024-11-03,Patient waitlist management,Staff spending too much time on manual data entry,Medium - workaround exists,24,Shipped,High
+FR-1063,HC-1051,2024-05-08,Lab results integration,"No-show rate impacting revenue, need better reminders",Medium - workaround exists,34,Shipped,Low
+FR-1064,HC-1051,2025-04-16,Patient payment plans,Cannot easily track referrals to specialists,Medium - workaround exists,22,Shipped,Medium
+FR-1065,HC-1051,2024-12-11,Lab results integration,Billing staff overwhelmed with claim rejections,High - blocking workflow,4,Declined,High
+FR-1066,HC-1051,2024-09-08,Referral tracking workflow,"No-show rate impacting revenue, need better reminders",Low - nice to have,10,Planned,Medium
+FR-1067,HC-1052,2025-07-15,Prior authorization automation,"Patient portal adoption is low, too complex for elderly patients",Low - nice to have,8,In development,High
+FR-1068,HC-1052,2025-02-06,Patient waitlist management,Cannot easily track referrals to specialists,High - blocking workflow,33,Declined,Low
+FR-1069,HC-1054,2025-09-30,Prior authorization automation,Staff spending too much time on manual data entry,High - blocking workflow,38,Planned,Medium
+FR-1070,HC-1054,2025-07-18,Patient waitlist management,Billing staff overwhelmed with claim rejections,Low - nice to have,43,Shipped,High
+FR-1071,HC-1054,2025-03-29,Enhanced ePrescribing integration,"No-show rate impacting revenue, need better reminders",Medium - workaround exists,28,Declined,High
+FR-1072,HC-1056,2025-07-30,Patient waitlist management,Billing staff overwhelmed with claim rejections,Low - nice to have,45,Planned,High
+FR-1073,HC-1056,2025-02-25,Lab results integration,Cannot easily track referrals to specialists,High - blocking workflow,1,Planned,Low
+FR-1074,HC-1058,2025-09-19,Telemedicine video quality improvements,Staff spending too much time on manual data entry,Low - nice to have,3,Under review,Critical
+FR-1075,HC-1058,2024-03-28,Enhanced ePrescribing integration,Staff spending too much time on manual data entry,High - blocking workflow,9,In development,Critical
+FR-1076,HC-1060,2024-07-26,Patient waitlist management,"No-show rate impacting revenue, need better reminders",Medium - workaround exists,42,Under review,Medium
+FR-1077,HC-1061,2024-11-19,Multi-location scheduling view,Cannot easily track referrals to specialists,Medium - workaround exists,12,In development,High
+FR-1078,HC-1061,2024-10-23,Clinical decision support alerts,EHR integration frequently breaks after Epic updates,Low - nice to have,18,Planned,High
+FR-1079,HC-1064,2025-02-23,Patient waitlist management,Reporting doesn't show metrics leadership needs,Low - nice to have,21,Shipped,Medium
+FR-1080,HC-1064,2024-09-12,Insurance eligibility real-time checks,Insurance verification taking 15+ minutes per patient,Medium - workaround exists,21,Under review,Critical
+FR-1081,HC-1070,2025-01-06,Patient payment plans,Scheduling conflicts between multiple providers,Low - nice to have,3,Planned,Low
+FR-1082,HC-1071,2025-05-18,Multi-location scheduling view,"Patient portal adoption is low, too complex for elderly patients",Medium - workaround exists,25,Under review,Medium
+FR-1083,HC-1077,2024-07-20,Lab results integration,Compliance audit preparation is extremely time-consuming,Low - nice to have,49,Under review,Medium
+FR-1084,HC-1077,2025-09-09,Patient payment plans,Staff spending too much time on manual data entry,Low - nice to have,8,Declined,Low
+FR-1085,HC-1078,2025-01-08,Clinical decision support alerts,"No-show rate impacting revenue, need better reminders",Low - nice to have,9,In development,Critical
+FR-1086,HC-1079,2024-06-19,Enhanced ePrescribing integration,"No-show rate impacting revenue, need better reminders",Low - nice to have,6,In development,Medium
+FR-1087,HC-1079,2025-04-04,Prior authorization automation,"Patient portal adoption is low, too complex for elderly patients",High - blocking workflow,49,In development,Low
+FR-1088,HC-1079,2024-03-23,Lab results integration,Reporting doesn't show metrics leadership needs,High - blocking workflow,40,Planned,Critical
+FR-1089,HC-1079,2025-08-10,Enhanced ePrescribing integration,Compliance audit preparation is extremely time-consuming,Medium - workaround exists,21,Planned,Low
+FR-1090,HC-1082,2025-01-19,Lab results integration,"Patient portal adoption is low, too complex for elderly patients",Low - nice to have,7,Shipped,Low
+FR-1091,HC-1082,2024-12-16,Patient waitlist management,"Patient portal adoption is low, too complex for elderly patients",Low - nice to have,47,In development,High
+FR-1092,HC-1082,2025-05-15,Clinical decision support alerts,Compliance audit preparation is extremely time-consuming,High - blocking workflow,39,Shipped,Critical
+FR-1093,HC-1083,2024-11-22,Telemedicine video quality improvements,EHR integration frequently breaks after Epic updates,High - blocking workflow,27,Planned,Critical
+FR-1094,HC-1083,2024-09-05,Insurance eligibility real-time checks,Insurance verification taking 15+ minutes per patient,Medium - workaround exists,8,Under review,High
+FR-1095,HC-1084,2024-08-30,Insurance eligibility real-time checks,EHR integration frequently breaks after Epic updates,High - blocking workflow,28,Under review,Medium
+FR-1096,HC-1085,2025-09-24,Insurance eligibility real-time checks,Insurance verification taking 15+ minutes per patient,Low - nice to have,2,Shipped,Medium
+FR-1097,HC-1085,2024-04-18,Multi-location scheduling view,EHR integration frequently breaks after Epic updates,High - blocking workflow,7,Planned,High
+FR-1098,HC-1085,2024-03-24,Patient waitlist management,EHR integration frequently breaks after Epic updates,Low - nice to have,47,Under review,Critical
+FR-1099,HC-1086,2024-08-26,Referral tracking workflow,Staff spending too much time on manual data entry,Low - nice to have,22,Under review,Low
+FR-1100,HC-1086,2024-11-24,Telemedicine video quality improvements,"No-show rate impacting revenue, need better reminders",Medium - workaround exists,10,Planned,Low
+FR-1101,HC-1087,2024-07-09,Patient payment plans,Compliance audit preparation is extremely time-consuming,Low - nice to have,33,Declined,Critical
+FR-1102,HC-1087,2025-03-29,Patient waitlist management,Reporting doesn't show metrics leadership needs,High - blocking workflow,7,Under review,High
+FR-1103,HC-1088,2024-09-26,Patient waitlist management,Reporting doesn't show metrics leadership needs,Low - nice to have,14,Planned,Critical
+FR-1104,HC-1088,2024-03-18,Referral tracking workflow,Insurance verification taking 15+ minutes per patient,Medium - workaround exists,44,Planned,High
+FR-1105,HC-1088,2025-02-08,Multi-location scheduling view,Compliance audit preparation is extremely time-consuming,Low - nice to have,46,Shipped,Medium
+FR-1106,HC-1094,2024-09-14,Clinical decision support alerts,Insurance verification taking 15+ minutes per patient,High - blocking workflow,36,Under review,Critical
+FR-1107,HC-1095,2024-03-02,Multi-location scheduling view,Billing staff overwhelmed with claim rejections,High - blocking workflow,16,Shipped,Critical
+FR-1108,HC-1096,2024-03-31,Lab results integration,Scheduling conflicts between multiple providers,Medium - workaround exists,5,Declined,Critical
+FR-1109,HC-1096,2025-08-05,Clinical decision support alerts,"Patient portal adoption is low, too complex for elderly patients",Medium - workaround exists,25,In development,Low
+FR-1110,HC-1096,2025-01-14,Patient payment plans,Compliance audit preparation is extremely time-consuming,Medium - workaround exists,38,In development,High
+FR-1111,HC-1096,2024-08-21,Multi-location scheduling view,Insurance verification taking 15+ minutes per patient,High - blocking workflow,38,In development,Low
+FR-1112,HC-1097,2025-04-17,Lab results integration,Billing staff overwhelmed with claim rejections,Medium - workaround exists,38,Shipped,Low
+FR-1113,HC-1097,2024-06-05,Patient waitlist management,Billing staff overwhelmed with claim rejections,Medium - workaround exists,39,Under review,High
+FR-1114,HC-1098,2025-01-25,Patient waitlist management,Billing staff overwhelmed with claim rejections,Medium - workaround exists,48,Under review,Low
+FR-1115,HC-1098,2024-06-25,Patient waitlist management,Scheduling conflicts between multiple providers,High - blocking workflow,41,Planned,Critical
+FR-1116,HC-1098,2024-01-17,Prior authorization automation,Cannot easily track referrals to specialists,High - blocking workflow,26,In development,Medium
+FR-1117,HC-1098,2024-07-21,Enhanced ePrescribing integration,Cannot easily track referrals to specialists,Medium - workaround exists,13,Planned,Medium
+FR-1118,HC-1099,2025-07-16,Clinical decision support alerts,"No-show rate impacting revenue, need better reminders",High - blocking workflow,26,Shipped,Low
+FR-1119,HC-1099,2025-03-19,Prior authorization automation,Insurance verification taking 15+ minutes per patient,Medium - workaround exists,1,Under review,Medium
+FR-1120,HC-1099,2024-04-18,Insurance eligibility real-time checks,"Patient portal adoption is low, too complex for elderly patients",Low - nice to have,8,Shipped,Medium
+FR-1121,HC-1099,2024-05-24,Referral tracking workflow,Reporting doesn't show metrics leadership needs,Medium - workaround exists,4,Planned,Low
+FR-1122,HC-1100,2024-11-11,Patient waitlist management,"Patient portal adoption is low, too complex for elderly patients",Low - nice to have,22,In development,Low
+FR-1123,HC-1101,2025-09-05,Patient waitlist management,Reporting doesn't show metrics leadership needs,Medium - workaround exists,37,In development,Medium
+FR-1124,HC-1101,2024-05-11,Lab results integration,Scheduling conflicts between multiple providers,Medium - workaround exists,49,Under review,Critical
+FR-1125,HC-1101,2025-04-02,Lab results integration,Billing staff overwhelmed with claim rejections,High - blocking workflow,3,Planned,Medium
+FR-1126,HC-1102,2024-11-16,Patient payment plans,Compliance audit preparation is extremely time-consuming,Low - nice to have,1,In development,Medium
+FR-1127,HC-1102,2024-07-18,Patient waitlist management,"Patient portal adoption is low, too complex for elderly patients",Low - nice to have,29,Declined,High
+FR-1128,HC-1102,2025-08-30,Multi-location scheduling view,"No-show rate impacting revenue, need better reminders",High - blocking workflow,23,Shipped,Low
+FR-1129,HC-1103,2024-11-16,Telemedicine video quality improvements,EHR integration frequently breaks after Epic updates,Medium - workaround exists,41,Planned,Medium
+FR-1130,HC-1105,2025-09-09,Clinical decision support alerts,EHR integration frequently breaks after Epic updates,Medium - workaround exists,5,Shipped,High
+FR-1131,HC-1105,2024-10-09,Patient waitlist management,"Patient portal adoption is low, too complex for elderly patients",High - blocking workflow,7,Shipped,High
+FR-1132,HC-1105,2024-08-16,Enhanced ePrescribing integration,"Patient portal adoption is low, too complex for elderly patients",Medium - workaround exists,6,Declined,Low
+FR-1133,HC-1106,2024-10-06,Lab results integration,Cannot easily track referrals to specialists,Medium - workaround exists,22,Declined,High
+FR-1134,HC-1107,2024-07-11,Multi-location scheduling view,Scheduling conflicts between multiple providers,High - blocking workflow,13,In development,Critical
+FR-1135,HC-1108,2024-07-18,Telemedicine video quality improvements,Reporting doesn't show metrics leadership needs,Medium - workaround exists,4,Planned,Low
+FR-1136,HC-1108,2025-03-09,Enhanced ePrescribing integration,Compliance audit preparation is extremely time-consuming,Medium - workaround exists,8,Planned,High
+FR-1137,HC-1108,2024-10-30,Enhanced ePrescribing integration,Staff spending too much time on manual data entry,Low - nice to have,37,Shipped,Critical
+FR-1138,HC-1108,2025-01-12,Patient payment plans,Insurance verification taking 15+ minutes per patient,Medium - workaround exists,31,Shipped,High
+FR-1139,HC-1109,2024-11-17,Insurance eligibility real-time checks,Compliance audit preparation is extremely time-consuming,Medium - workaround exists,45,In development,High
+FR-1140,HC-1110,2025-04-09,Clinical decision support alerts,Insurance verification taking 15+ minutes per patient,Low - nice to have,43,Planned,Medium
+FR-1141,HC-1110,2024-01-18,Insurance eligibility real-time checks,Staff spending too much time on manual data entry,Medium - workaround exists,8,Declined,Low
+FR-1142,HC-1113,2025-07-17,Enhanced ePrescribing integration,Billing staff overwhelmed with claim rejections,Low - nice to have,33,In development,Low
+FR-1143,HC-1113,2024-07-01,Lab results integration,Scheduling conflicts between multiple providers,High - blocking workflow,45,In development,Medium
+FR-1144,HC-1113,2025-08-02,Multi-location scheduling view,Staff spending too much time on manual data entry,Low - nice to have,29,Under review,High
+FR-1145,HC-1113,2025-05-23,Insurance eligibility real-time checks,EHR integration frequently breaks after Epic updates,High - blocking workflow,5,Planned,Critical
+FR-1146,HC-1114,2024-08-28,Insurance eligibility real-time checks,"Patient portal adoption is low, too complex for elderly patients",Medium - workaround exists,40,In development,Critical
+FR-1147,HC-1114,2025-02-26,Lab results integration,EHR integration frequently breaks after Epic updates,Medium - workaround exists,17,Shipped,Critical
+FR-1148,HC-1114,2025-06-21,Prior authorization automation,Billing staff overwhelmed with claim rejections,Low - nice to have,23,Planned,Critical
+FR-1149,HC-1114,2024-07-31,Patient payment plans,Insurance verification taking 15+ minutes per patient,High - blocking workflow,45,In development,High
+FR-1150,HC-1116,2025-07-25,Enhanced ePrescribing integration,Staff spending too much time on manual data entry,Low - nice to have,2,Planned,Low
+FR-1151,HC-1121,2025-05-27,Lab results integration,"Patient portal adoption is low, too complex for elderly patients",Medium - workaround exists,32,Shipped,Critical
+FR-1152,HC-1121,2025-06-06,Clinical decision support alerts,Cannot easily track referrals to specialists,High - blocking workflow,49,Shipped,Critical
+FR-1153,HC-1121,2024-02-11,Referral tracking workflow,Scheduling conflicts between multiple providers,High - blocking workflow,31,Planned,High
+FR-1154,HC-1122,2024-01-08,Lab results integration,EHR integration frequently breaks after Epic updates,Low - nice to have,30,In development,High
+FR-1155,HC-1122,2025-02-10,Referral tracking workflow,Insurance verification taking 15+ minutes per patient,Low - nice to have,3,Under review,Medium
+FR-1156,HC-1122,2024-09-29,Telemedicine video quality improvements,"Patient portal adoption is low, too complex for elderly patients",Low - nice to have,9,Shipped,High
+FR-1157,HC-1123,2025-09-14,Clinical decision support alerts,"Patient portal adoption is low, too complex for elderly patients",High - blocking workflow,46,In development,Medium
+FR-1158,HC-1123,2025-02-06,Insurance eligibility real-time checks,Compliance audit preparation is extremely time-consuming,Medium - workaround exists,47,Under review,Low
+FR-1159,HC-1124,2025-06-08,Prior authorization automation,"No-show rate impacting revenue, need better reminders",High - blocking workflow,1,Under review,Critical
+FR-1160,HC-1124,2025-01-31,Insurance eligibility real-time checks,"No-show rate impacting revenue, need better reminders",High - blocking workflow,30,Declined,Medium
+FR-1161,HC-1125,2024-08-07,Multi-location scheduling view,Compliance audit preparation is extremely time-consuming,Medium - workaround exists,38,Shipped,Critical
+FR-1162,HC-1126,2024-08-23,Multi-location scheduling view,Compliance audit preparation is extremely time-consuming,High - blocking workflow,15,Declined,Critical
+FR-1163,HC-1126,2024-11-13,Enhanced ePrescribing integration,"No-show rate impacting revenue, need better reminders",High - blocking workflow,25,In development,High
+FR-1164,HC-1127,2025-02-01,Lab results integration,Cannot easily track referrals to specialists,Medium - workaround exists,18,Declined,High
+FR-1165,HC-1127,2025-05-18,Patient payment plans,Reporting doesn't show metrics leadership needs,Low - nice to have,1,In development,High
+FR-1166,HC-1136,2025-08-04,Patient waitlist management,EHR integration frequently breaks after Epic updates,High - blocking workflow,3,In development,High
+FR-1167,HC-1136,2024-07-14,Prior authorization automation,"Patient portal adoption is low, too complex for elderly patients",High - blocking workflow,17,In development,Low
+FR-1168,HC-1137,2024-10-31,Enhanced ePrescribing integration,EHR integration frequently breaks after Epic updates,Medium - workaround exists,48,Planned,Medium
+FR-1169,HC-1137,2025-04-12,Referral tracking workflow,EHR integration frequently breaks after Epic updates,Low - nice to have,8,Under review,Low
+FR-1170,HC-1137,2024-06-27,Enhanced ePrescribing integration,EHR integration frequently breaks after Epic updates,High - blocking workflow,49,Planned,Low
+FR-1171,HC-1138,2025-08-16,Telemedicine video quality improvements,Compliance audit preparation is extremely time-consuming,Medium - workaround exists,17,Under review,Low
+FR-1172,HC-1138,2024-03-05,Patient waitlist management,"No-show rate impacting revenue, need better reminders",High - blocking workflow,25,Shipped,Low
+FR-1173,HC-1138,2024-01-31,Enhanced ePrescribing integration,Cannot easily track referrals to specialists,Medium - workaround exists,41,Shipped,Low
+FR-1174,HC-1138,2024-06-28,Enhanced ePrescribing integration,Scheduling conflicts between multiple providers,High - blocking workflow,12,Under review,Medium
+FR-1175,HC-1139,2025-05-05,Referral tracking workflow,Compliance audit preparation is extremely time-consuming,High - blocking workflow,25,In development,High
+FR-1176,HC-1141,2024-01-02,Enhanced ePrescribing integration,Scheduling conflicts between multiple providers,Medium - workaround exists,36,Declined,Low
+FR-1177,HC-1141,2024-08-25,Enhanced ePrescribing integration,Compliance audit preparation is extremely time-consuming,Medium - workaround exists,25,Under review,Medium
+FR-1178,HC-1141,2025-04-12,Patient payment plans,Reporting doesn't show metrics leadership needs,High - blocking workflow,29,In development,Medium
+FR-1179,HC-1142,2025-07-07,Patient waitlist management,"Patient portal adoption is low, too complex for elderly patients",Low - nice to have,4,In development,Low
+FR-1180,HC-1142,2024-06-27,Multi-location scheduling view,Billing staff overwhelmed with claim rejections,Medium - workaround exists,14,Shipped,Medium
+FR-1181,HC-1142,2024-10-26,Patient waitlist management,Cannot easily track referrals to specialists,Low - nice to have,46,Declined,Low
+FR-1182,HC-1144,2025-09-08,Clinical decision support alerts,Insurance verification taking 15+ minutes per patient,Medium - workaround exists,17,In development,Low
+FR-1183,HC-1144,2025-04-06,Telemedicine video quality improvements,Insurance verification taking 15+ minutes per patient,High - blocking workflow,2,In development,High
+FR-1184,HC-1145,2025-07-07,Patient waitlist management,Scheduling conflicts between multiple providers,High - blocking workflow,36,Planned,Low
+FR-1185,HC-1145,2024-03-24,Prior authorization automation,EHR integration frequently breaks after Epic updates,Low - nice to have,10,Declined,Critical
+FR-1186,HC-1145,2025-06-16,Insurance eligibility real-time checks,Scheduling conflicts between multiple providers,High - blocking workflow,7,In development,High
+FR-1187,HC-1145,2024-08-20,Lab results integration,Cannot easily track referrals to specialists,High - blocking workflow,36,In development,Medium
+FR-1188,HC-1146,2025-02-08,Telemedicine video quality improvements,Billing staff overwhelmed with claim rejections,High - blocking workflow,14,Declined,Medium
+FR-1189,HC-1146,2025-02-21,Insurance eligibility real-time checks,"No-show rate impacting revenue, need better reminders",Low - nice to have,16,Shipped,High
+FR-1190,HC-1146,2024-07-11,Enhanced ePrescribing integration,Reporting doesn't show metrics leadership needs,High - blocking workflow,25,Shipped,High
+FR-1191,HC-1146,2024-03-14,Clinical decision support alerts,"No-show rate impacting revenue, need better reminders",Medium - workaround exists,41,In development,High
+FR-1192,HC-1147,2024-04-08,Referral tracking workflow,Staff spending too much time on manual data entry,High - blocking workflow,29,Under review,Medium
+FR-1193,HC-1147,2024-05-03,Referral tracking workflow,Insurance verification taking 15+ minutes per patient,Low - nice to have,6,Under review,Critical
+FR-1194,HC-1147,2024-09-16,Patient payment plans,EHR integration frequently breaks after Epic updates,Medium - workaround exists,1,In development,Low
+FR-1195,HC-1147,2024-01-11,Multi-location scheduling view,Compliance audit preparation is extremely time-consuming,Medium - workaround exists,39,Shipped,Medium
+FR-1196,HC-1149,2025-08-26,Patient payment plans,Scheduling conflicts between multiple providers,Low - nice to have,40,Under review,Low
+FR-1197,HC-1150,2025-05-26,Lab results integration,"Patient portal adoption is low, too complex for elderly patients",High - blocking workflow,3,In development,Low
+FR-1198,HC-1150,2025-01-27,Telemedicine video quality improvements,EHR integration frequently breaks after Epic updates,Medium - workaround exists,1,Declined,Medium
+FR-1199,HC-1150,2025-05-17,Enhanced ePrescribing integration,Billing staff overwhelmed with claim rejections,High - blocking workflow,1,Shipped,Critical
+FR-1200,HC-1151,2025-07-10,Insurance eligibility real-time checks,EHR integration frequently breaks after Epic updates,High - blocking workflow,21,Under review,Low
+FR-1201,HC-1151,2025-01-23,Lab results integration,"No-show rate impacting revenue, need better reminders",Low - nice to have,45,Shipped,Critical
+FR-1202,HC-1151,2024-11-26,Clinical decision support alerts,Reporting doesn't show metrics leadership needs,Low - nice to have,30,Shipped,High
+FR-1203,HC-1152,2024-04-07,Enhanced ePrescribing integration,Insurance verification taking 15+ minutes per patient,Low - nice to have,33,Under review,Low
+FR-1204,HC-1152,2024-03-11,Telemedicine video quality improvements,Insurance verification taking 15+ minutes per patient,Medium - workaround exists,48,In development,Low
+FR-1205,HC-1152,2025-07-02,Enhanced ePrescribing integration,Compliance audit preparation is extremely time-consuming,Low - nice to have,22,Under review,Low
+FR-1206,HC-1152,2024-06-27,Patient payment plans,Compliance audit preparation is extremely time-consuming,High - blocking workflow,30,Under review,Medium
+FR-1207,HC-1153,2025-03-12,Insurance eligibility real-time checks,Insurance verification taking 15+ minutes per patient,High - blocking workflow,46,Planned,Low
+FR-1208,HC-1153,2025-05-12,Referral tracking workflow,Staff spending too much time on manual data entry,Medium - workaround exists,4,Planned,Low
+FR-1209,HC-1157,2025-05-20,Referral tracking workflow,Cannot easily track referrals to specialists,Low - nice to have,44,Under review,Critical
+FR-1210,HC-1157,2024-06-17,Patient waitlist management,Insurance verification taking 15+ minutes per patient,Low - nice to have,25,Declined,Critical
+FR-1211,HC-1157,2025-03-24,Patient payment plans,"Patient portal adoption is low, too complex for elderly patients",Low - nice to have,12,Shipped,Critical
+FR-1212,HC-1158,2025-01-12,Telemedicine video quality improvements,EHR integration frequently breaks after Epic updates,Medium - workaround exists,15,Shipped,Critical
+FR-1213,HC-1160,2025-03-08,Insurance eligibility real-time checks,EHR integration frequently breaks after Epic updates,High - blocking workflow,35,In development,Medium
+FR-1214,HC-1160,2025-05-01,Prior authorization automation,Reporting doesn't show metrics leadership needs,High - blocking workflow,29,Planned,Critical
+FR-1215,HC-1165,2025-07-13,Lab results integration,Reporting doesn't show metrics leadership needs,Medium - workaround exists,1,Shipped,Critical
+FR-1216,HC-1165,2024-07-08,Multi-location scheduling view,Billing staff overwhelmed with claim rejections,High - blocking workflow,1,Declined,Critical
+FR-1217,HC-1165,2024-08-25,Referral tracking workflow,Insurance verification taking 15+ minutes per patient,Medium - workaround exists,10,Planned,Low
+FR-1218,HC-1165,2024-01-12,Lab results integration,Staff spending too much time on manual data entry,Low - nice to have,18,Under review,Critical
+FR-1219,HC-1166,2024-09-29,Multi-location scheduling view,Reporting doesn't show metrics leadership needs,High - blocking workflow,2,In development,High
+FR-1220,HC-1166,2024-11-23,Referral tracking workflow,Cannot easily track referrals to specialists,High - blocking workflow,49,Planned,Low
+FR-1221,HC-1166,2025-05-04,Patient payment plans,"No-show rate impacting revenue, need better reminders",High - blocking workflow,8,Planned,Low
+FR-1222,HC-1167,2025-10-04,Telemedicine video quality improvements,EHR integration frequently breaks after Epic updates,High - blocking workflow,22,Planned,High
+FR-1223,HC-1167,2024-03-10,Patient payment plans,Reporting doesn't show metrics leadership needs,High - blocking workflow,26,Declined,High
+FR-1224,HC-1169,2025-10-02,Lab results integration,"No-show rate impacting revenue, need better reminders",Medium - workaround exists,9,Shipped,Critical
+FR-1225,HC-1169,2025-03-18,Enhanced ePrescribing integration,"Patient portal adoption is low, too complex for elderly patients",Medium - workaround exists,21,Under review,High
+FR-1226,HC-1170,2025-01-17,Prior authorization automation,Cannot easily track referrals to specialists,Low - nice to have,43,Planned,High
+FR-1227,HC-1170,2025-05-05,Multi-location scheduling view,Reporting doesn't show metrics leadership needs,Medium - workaround exists,6,Planned,High
+FR-1228,HC-1170,2025-09-05,Telemedicine video quality improvements,Compliance audit preparation is extremely time-consuming,Medium - workaround exists,14,Under review,Low
+FR-1229,HC-1171,2025-03-03,Insurance eligibility real-time checks,Reporting doesn't show metrics leadership needs,High - blocking workflow,7,Planned,Critical
+FR-1230,HC-1174,2024-12-15,Clinical decision support alerts,Reporting doesn't show metrics leadership needs,Low - nice to have,9,In development,Medium
+FR-1231,HC-1174,2025-04-26,Telemedicine video quality improvements,Cannot easily track referrals to specialists,Medium - workaround exists,11,Declined,High
+FR-1232,HC-1174,2025-04-25,Lab results integration,EHR integration frequently breaks after Epic updates,Low - nice to have,23,Shipped,Medium
+FR-1233,HC-1174,2025-06-29,Telemedicine video quality improvements,Scheduling conflicts between multiple providers,Low - nice to have,48,Under review,Medium
+FR-1234,HC-1175,2024-10-04,Clinical decision support alerts,Scheduling conflicts between multiple providers,Low - nice to have,2,Planned,Medium
+FR-1235,HC-1175,2024-11-27,Referral tracking workflow,Scheduling conflicts between multiple providers,High - blocking workflow,15,In development,Medium
+FR-1236,HC-1175,2024-07-15,Lab results integration,Reporting doesn't show metrics leadership needs,Low - nice to have,35,Shipped,Medium
+FR-1237,HC-1177,2024-07-11,Multi-location scheduling view,Insurance verification taking 15+ minutes per patient,Low - nice to have,28,In development,High
+FR-1238,HC-1177,2025-01-05,Telemedicine video quality improvements,Reporting doesn't show metrics leadership needs,Medium - workaround exists,39,Planned,Low
+FR-1239,HC-1177,2025-08-18,Telemedicine video quality improvements,Insurance verification taking 15+ minutes per patient,High - blocking workflow,44,In development,High
+FR-1240,HC-1177,2024-07-29,Multi-location scheduling view,"Patient portal adoption is low, too complex for elderly patients",High - blocking workflow,4,Shipped,Medium
+FR-1241,HC-1179,2024-10-04,Multi-location scheduling view,Cannot easily track referrals to specialists,Low - nice to have,10,In development,High
+FR-1242,HC-1179,2024-09-17,Multi-location scheduling view,EHR integration frequently breaks after Epic updates,Medium - workaround exists,6,Under review,Low
+FR-1243,HC-1179,2025-07-17,Prior authorization automation,Staff spending too much time on manual data entry,High - blocking workflow,30,Planned,Medium
+FR-1244,HC-1179,2025-05-21,Patient payment plans,Reporting doesn't show metrics leadership needs,Low - nice to have,46,In development,Low
+FR-1245,HC-1182,2025-05-16,Multi-location scheduling view,EHR integration frequently breaks after Epic updates,Medium - workaround exists,49,Shipped,Low
+FR-1246,HC-1182,2024-11-16,Insurance eligibility real-time checks,Insurance verification taking 15+ minutes per patient,High - blocking workflow,43,Under review,Medium
+FR-1247,HC-1182,2024-02-25,Enhanced ePrescribing integration,EHR integration frequently breaks after Epic updates,Medium - workaround exists,10,Under review,Medium
+FR-1248,HC-1185,2025-03-09,Referral tracking workflow,Staff spending too much time on manual data entry,Low - nice to have,32,Declined,Critical
+FR-1249,HC-1185,2024-01-11,Insurance eligibility real-time checks,"Patient portal adoption is low, too complex for elderly patients",Low - nice to have,42,In development,Medium
+FR-1250,HC-1186,2024-08-24,Referral tracking workflow,Scheduling conflicts between multiple providers,Low - nice to have,3,Declined,Medium
+FR-1251,HC-1186,2025-07-19,Lab results integration,"No-show rate impacting revenue, need better reminders",High - blocking workflow,26,Under review,Medium
+FR-1252,HC-1187,2024-06-24,Prior authorization automation,"No-show rate impacting revenue, need better reminders",Low - nice to have,17,Declined,Critical
+FR-1253,HC-1187,2024-06-13,Insurance eligibility real-time checks,Scheduling conflicts between multiple providers,Low - nice to have,27,Declined,Medium
+FR-1254,HC-1187,2025-05-12,Insurance eligibility real-time checks,EHR integration frequently breaks after Epic updates,High - blocking workflow,18,Shipped,High
+FR-1255,HC-1189,2024-06-26,Referral tracking workflow,Compliance audit preparation is extremely time-consuming,High - blocking workflow,19,Under review,High
+FR-1256,HC-1189,2024-11-11,Prior authorization automation,Scheduling conflicts between multiple providers,Low - nice to have,12,Shipped,Low
+FR-1257,HC-1189,2024-08-06,Referral tracking workflow,EHR integration frequently breaks after Epic updates,High - blocking workflow,24,Shipped,Low
+FR-1258,HC-1190,2025-01-28,Multi-location scheduling view,Billing staff overwhelmed with claim rejections,High - blocking workflow,24,Declined,Medium
+FR-1259,HC-1192,2025-03-23,Telemedicine video quality improvements,"Patient portal adoption is low, too complex for elderly patients",Medium - workaround exists,48,Under review,Low
+FR-1260,HC-1192,2025-06-03,Multi-location scheduling view,Billing staff overwhelmed with claim rejections,Medium - workaround exists,30,Declined,High
+FR-1261,HC-1192,2025-01-16,Patient waitlist management,EHR integration frequently breaks after Epic updates,Low - nice to have,15,Shipped,High
+FR-1262,HC-1193,2024-07-31,Referral tracking workflow,"Patient portal adoption is low, too complex for elderly patients",Medium - workaround exists,38,Shipped,Medium
+FR-1263,HC-1193,2024-09-11,Clinical decision support alerts,"No-show rate impacting revenue, need better reminders",Medium - workaround exists,44,Declined,Low
+FR-1264,HC-1193,2024-01-25,Multi-location scheduling view,"No-show rate impacting revenue, need better reminders",Low - nice to have,34,Under review,Low
+FR-1265,HC-1194,2024-01-23,Prior authorization automation,Scheduling conflicts between multiple providers,Medium - workaround exists,20,In development,Low
+FR-1266,HC-1194,2024-01-21,Patient payment plans,Billing staff overwhelmed with claim rejections,Low - nice to have,41,Shipped,Low
+FR-1267,HC-1194,2024-04-01,Prior authorization automation,Compliance audit preparation is extremely time-consuming,Medium - workaround exists,32,Planned,Medium
+FR-1268,HC-1196,2025-05-05,Patient waitlist management,Insurance verification taking 15+ minutes per patient,High - blocking workflow,5,Declined,High
+FR-1269,HC-1196,2024-02-07,Prior authorization automation,"Patient portal adoption is low, too complex for elderly patients",High - blocking workflow,8,Planned,Critical
+FR-1270,HC-1196,2024-06-11,Insurance eligibility real-time checks,Scheduling conflicts between multiple providers,Low - nice to have,22,Declined,Critical
+FR-1271,HC-1196,2024-09-13,Insurance eligibility real-time checks,Reporting doesn't show metrics leadership needs,Medium - workaround exists,42,Shipped,High
+FR-1272,HC-1198,2024-10-12,Patient waitlist management,"No-show rate impacting revenue, need better reminders",Medium - workaround exists,22,In development,High
+FR-1273,HC-1198,2025-06-17,Insurance eligibility real-time checks,"No-show rate impacting revenue, need better reminders",High - blocking workflow,46,Declined,Critical
+FR-1274,HC-1198,2025-08-09,Patient waitlist management,Compliance audit preparation is extremely time-consuming,Low - nice to have,30,Shipped,Low
+FR-1275,HC-1199,2024-08-29,Enhanced ePrescribing integration,"No-show rate impacting revenue, need better reminders",Low - nice to have,37,Under review,Critical
+FR-1276,HC-1199,2024-04-13,Clinical decision support alerts,Insurance verification taking 15+ minutes per patient,Low - nice to have,16,Under review,Low
+FR-1277,HC-1200,2025-01-12,Patient waitlist management,Insurance verification taking 15+ minutes per patient,Low - nice to have,5,Planned,High
+FR-1278,HC-1200,2024-01-09,Lab results integration,Insurance verification taking 15+ minutes per patient,Medium - workaround exists,3,Declined,Critical
+FR-1279,HC-1200,2025-05-27,Telemedicine video quality improvements,Staff spending too much time on manual data entry,Medium - workaround exists,23,Planned,High
+FR-1280,HC-1204,2025-01-11,Multi-location scheduling view,Compliance audit preparation is extremely time-consuming,Medium - workaround exists,10,Planned,Low
+FR-1281,HC-1208,2024-02-13,Insurance eligibility real-time checks,Billing staff overwhelmed with claim rejections,High - blocking workflow,23,Under review,Medium
+FR-1282,HC-1209,2025-05-16,Prior authorization automation,Reporting doesn't show metrics leadership needs,Low - nice to have,18,Shipped,Low
+FR-1283,HC-1209,2025-06-16,Lab results integration,Scheduling conflicts between multiple providers,Low - nice to have,25,Shipped,Medium
+FR-1284,HC-1209,2025-06-20,Prior authorization automation,Insurance verification taking 15+ minutes per patient,Low - nice to have,8,Shipped,High
+FR-1285,HC-1210,2024-07-30,Insurance eligibility real-time checks,Scheduling conflicts between multiple providers,Medium - workaround exists,21,In development,Critical
+FR-1286,HC-1210,2025-09-10,Prior authorization automation,Billing staff overwhelmed with claim rejections,Medium - workaround exists,2,In development,Medium
+FR-1287,HC-1210,2024-01-25,Lab results integration,Cannot easily track referrals to specialists,High - blocking workflow,22,Under review,High
+FR-1288,HC-1211,2024-05-30,Patient payment plans,Scheduling conflicts between multiple providers,Low - nice to have,23,Planned,Medium
+FR-1289,HC-1211,2025-02-09,Referral tracking workflow,Insurance verification taking 15+ minutes per patient,High - blocking workflow,32,Planned,Low
+FR-1290,HC-1211,2024-09-15,Patient payment plans,Billing staff overwhelmed with claim rejections,Medium - workaround exists,8,Shipped,Medium
+FR-1291,HC-1211,2024-07-28,Patient payment plans,Insurance verification taking 15+ minutes per patient,Medium - workaround exists,4,Under review,High
+FR-1292,HC-1212,2024-04-13,Clinical decision support alerts,"Patient portal adoption is low, too complex for elderly patients",High - blocking workflow,30,In development,Low
+FR-1293,HC-1212,2025-01-30,Prior authorization automation,EHR integration frequently breaks after Epic updates,Low - nice to have,19,In development,Medium
+FR-1294,HC-1212,2025-06-08,Telemedicine video quality improvements,Cannot easily track referrals to specialists,High - blocking workflow,23,Shipped,Critical
+FR-1295,HC-1212,2024-12-26,Lab results integration,"No-show rate impacting revenue, need better reminders",Medium - workaround exists,18,Declined,High
+FR-1296,HC-1215,2025-07-29,Clinical decision support alerts,Staff spending too much time on manual data entry,High - blocking workflow,29,Declined,High
+FR-1297,HC-1215,2025-06-17,Lab results integration,Staff spending too much time on manual data entry,Medium - workaround exists,23,Shipped,Medium
+FR-1298,HC-1216,2025-04-16,Lab results integration,Scheduling conflicts between multiple providers,Medium - workaround exists,47,In development,Medium
+FR-1299,HC-1218,2024-05-06,Patient payment plans,Cannot easily track referrals to specialists,Medium - workaround exists,44,Declined,Critical
+FR-1300,HC-1218,2025-07-15,Multi-location scheduling view,Reporting doesn't show metrics leadership needs,High - blocking workflow,33,Planned,Low
+FR-1301,HC-1220,2024-09-30,Patient waitlist management,Insurance verification taking 15+ minutes per patient,High - blocking workflow,28,Under review,Low
+FR-1302,HC-1220,2024-10-09,Prior authorization automation,"No-show rate impacting revenue, need better reminders",High - blocking workflow,1,Under review,Medium
+FR-1303,HC-1220,2024-01-13,Patient waitlist management,"No-show rate impacting revenue, need better reminders",Medium - workaround exists,39,Declined,High
+FR-1304,HC-1221,2024-06-04,Prior authorization automation,Reporting doesn't show metrics leadership needs,Low - nice to have,39,In development,High
+FR-1305,HC-1221,2024-01-01,Insurance eligibility real-time checks,Insurance verification taking 15+ minutes per patient,High - blocking workflow,19,In development,Low
+FR-1306,HC-1222,2024-08-12,Patient payment plans,Insurance verification taking 15+ minutes per patient,Low - nice to have,13,Shipped,Critical
+FR-1307,HC-1222,2024-03-22,Patient payment plans,"Patient portal adoption is low, too complex for elderly patients",Low - nice to have,24,In development,Low
+FR-1308,HC-1222,2024-09-21,Multi-location scheduling view,Reporting doesn't show metrics leadership needs,Low - nice to have,5,In development,Medium
+FR-1309,HC-1223,2025-08-26,Telemedicine video quality improvements,Compliance audit preparation is extremely time-consuming,Low - nice to have,19,Planned,High
+FR-1310,HC-1223,2024-01-23,Prior authorization automation,Cannot easily track referrals to specialists,Medium - workaround exists,1,In development,Medium
+FR-1311,HC-1223,2025-05-25,Prior authorization automation,Staff spending too much time on manual data entry,Low - nice to have,33,In development,Medium
+FR-1312,HC-1227,2024-09-11,Patient payment plans,Insurance verification taking 15+ minutes per patient,High - blocking workflow,33,Declined,Medium
+FR-1313,HC-1227,2025-02-26,Prior authorization automation,Billing staff overwhelmed with claim rejections,Low - nice to have,32,In development,Medium
+FR-1314,HC-1227,2024-03-24,Referral tracking workflow,Insurance verification taking 15+ minutes per patient,Low - nice to have,28,Shipped,Critical
+FR-1315,HC-1228,2024-02-28,Prior authorization automation,Billing staff overwhelmed with claim rejections,Medium - workaround exists,41,Planned,Low
+FR-1316,HC-1229,2024-02-01,Lab results integration,"Patient portal adoption is low, too complex for elderly patients",High - blocking workflow,9,In development,High
+FR-1317,HC-1229,2025-05-13,Patient payment plans,Billing staff overwhelmed with claim rejections,Low - nice to have,11,Planned,Low
+FR-1318,HC-1229,2025-03-16,Referral tracking workflow,Compliance audit preparation is extremely time-consuming,High - blocking workflow,33,Declined,High
+FR-1319,HC-1229,2024-12-10,Patient waitlist management,Scheduling conflicts between multiple providers,Medium - workaround exists,19,Declined,Low
+FR-1320,HC-1230,2024-04-13,Insurance eligibility real-time checks,EHR integration frequently breaks after Epic updates,Low - nice to have,42,Under review,High
+FR-1321,HC-1230,2025-07-07,Prior authorization automation,Cannot easily track referrals to specialists,High - blocking workflow,34,Planned,Critical
+FR-1322,HC-1234,2025-01-10,Lab results integration,Scheduling conflicts between multiple providers,High - blocking workflow,31,Under review,High
+FR-1323,HC-1234,2024-11-13,Lab results integration,EHR integration frequently breaks after Epic updates,High - blocking workflow,2,Declined,Critical
+FR-1324,HC-1234,2024-02-10,Multi-location scheduling view,Staff spending too much time on manual data entry,High - blocking workflow,19,Planned,Low
+FR-1325,HC-1235,2025-05-17,Insurance eligibility real-time checks,Compliance audit preparation is extremely time-consuming,Low - nice to have,32,In development,Critical
+FR-1326,HC-1235,2025-09-19,Clinical decision support alerts,Insurance verification taking 15+ minutes per patient,High - blocking workflow,10,Shipped,Medium
+FR-1327,HC-1237,2025-06-11,Insurance eligibility real-time checks,Cannot easily track referrals to specialists,Low - nice to have,8,Planned,Medium
+FR-1328,HC-1239,2024-06-15,Patient payment plans,Cannot easily track referrals to specialists,Medium - workaround exists,30,Declined,Medium
+FR-1329,HC-1239,2024-10-27,Prior authorization automation,Billing staff overwhelmed with claim rejections,High - blocking workflow,11,In development,Medium
+FR-1330,HC-1241,2024-06-07,Enhanced ePrescribing integration,EHR integration frequently breaks after Epic updates,High - blocking workflow,20,Declined,Critical
+FR-1331,HC-1243,2024-05-09,Patient waitlist management,EHR integration frequently breaks after Epic updates,Medium - workaround exists,20,In development,Medium
+FR-1332,HC-1243,2025-08-16,Referral tracking workflow,Cannot easily track referrals to specialists,Medium - workaround exists,9,Shipped,Critical
+FR-1333,HC-1243,2025-07-19,Multi-location scheduling view,Compliance audit preparation is extremely time-consuming,Low - nice to have,8,Planned,Low
+FR-1334,HC-1243,2024-02-04,Lab results integration,Insurance verification taking 15+ minutes per patient,Medium - workaround exists,15,Planned,Medium
+FR-1335,HC-1246,2024-09-15,Prior authorization automation,Insurance verification taking 15+ minutes per patient,Medium - workaround exists,24,Shipped,Low
+FR-1336,HC-1246,2024-11-27,Patient payment plans,Insurance verification taking 15+ minutes per patient,Medium - workaround exists,33,Shipped,Medium
+FR-1337,HC-1247,2025-08-03,Patient waitlist management,Staff spending too much time on manual data entry,High - blocking workflow,41,In development,Low
+FR-1338,HC-1249,2024-12-08,Patient waitlist management,Staff spending too much time on manual data entry,High - blocking workflow,40,Planned,Low
+FR-1339,HC-1250,2024-07-26,Patient waitlist management,Billing staff overwhelmed with claim rejections,High - blocking workflow,21,Under review,Medium
+FR-1340,HC-1250,2024-12-17,Multi-location scheduling view,"Patient portal adoption is low, too complex for elderly patients",Medium - workaround exists,5,Under review,Critical
+FR-1341,HC-1250,2025-05-09,Telemedicine video quality improvements,"No-show rate impacting revenue, need better reminders",High - blocking workflow,35,Planned,Medium
+FR-1342,HC-1251,2025-06-01,Clinical decision support alerts,Reporting doesn't show metrics leadership needs,Medium - workaround exists,4,Declined,High
+FR-1343,HC-1252,2024-02-10,Patient payment plans,Scheduling conflicts between multiple providers,Low - nice to have,48,In development,Low
+FR-1344,HC-1255,2025-10-04,Insurance eligibility real-time checks,Cannot easily track referrals to specialists,Medium - workaround exists,31,Shipped,High
+FR-1345,HC-1255,2024-11-18,Multi-location scheduling view,"No-show rate impacting revenue, need better reminders",Medium - workaround exists,26,In development,Medium
+FR-1346,HC-1255,2024-02-09,Referral tracking workflow,Scheduling conflicts between multiple providers,Medium - workaround exists,35,Shipped,Medium
+FR-1347,HC-1255,2024-01-05,Telemedicine video quality improvements,"No-show rate impacting revenue, need better reminders",High - blocking workflow,6,Planned,Low
+FR-1348,HC-1260,2025-07-02,Telemedicine video quality improvements,Billing staff overwhelmed with claim rejections,High - blocking workflow,21,Declined,Medium
+FR-1349,HC-1261,2024-02-22,Patient payment plans,Scheduling conflicts between multiple providers,High - blocking workflow,47,Declined,Medium
+FR-1350,HC-1261,2024-04-28,Referral tracking workflow,Billing staff overwhelmed with claim rejections,Low - nice to have,39,In development,High
+FR-1351,HC-1261,2025-07-12,Referral tracking workflow,Staff spending too much time on manual data entry,Low - nice to have,34,Shipped,Critical
+FR-1352,HC-1261,2024-12-02,Referral tracking workflow,Cannot easily track referrals to specialists,High - blocking workflow,42,Under review,High
+FR-1353,HC-1262,2024-09-21,Patient waitlist management,Compliance audit preparation is extremely time-consuming,Low - nice to have,15,In development,Low
+FR-1354,HC-1264,2024-06-16,Lab results integration,EHR integration frequently breaks after Epic updates,Medium - workaround exists,2,In development,Critical
+FR-1355,HC-1264,2024-03-19,Patient waitlist management,EHR integration frequently breaks after Epic updates,High - blocking workflow,24,Planned,Critical
+FR-1356,HC-1265,2024-10-03,Patient waitlist management,EHR integration frequently breaks after Epic updates,Medium - workaround exists,49,In development,Critical
+FR-1357,HC-1265,2025-05-27,Telemedicine video quality improvements,Cannot easily track referrals to specialists,Low - nice to have,28,Under review,Low
+FR-1358,HC-1265,2025-09-21,Clinical decision support alerts,EHR integration frequently breaks after Epic updates,Medium - workaround exists,1,Under review,Medium
+FR-1359,HC-1265,2024-06-29,Prior authorization automation,"No-show rate impacting revenue, need better reminders",Low - nice to have,1,In development,Critical
+FR-1360,HC-1266,2025-09-27,Insurance eligibility real-time checks,EHR integration frequently breaks after Epic updates,High - blocking workflow,36,Planned,Medium
+FR-1361,HC-1266,2024-06-13,Telemedicine video quality improvements,Reporting doesn't show metrics leadership needs,High - blocking workflow,20,Shipped,Medium
+FR-1362,HC-1266,2024-01-31,Lab results integration,Billing staff overwhelmed with claim rejections,Medium - workaround exists,48,Under review,Low
+FR-1363,HC-1266,2024-08-05,Patient waitlist management,"No-show rate impacting revenue, need better reminders",Low - nice to have,8,Shipped,Critical
+FR-1364,HC-1267,2024-08-20,Patient payment plans,Reporting doesn't show metrics leadership needs,Medium - workaround exists,26,Shipped,Medium
+FR-1365,HC-1268,2024-07-22,Enhanced ePrescribing integration,Staff spending too much time on manual data entry,Medium - workaround exists,43,Planned,Critical
+FR-1366,HC-1268,2025-08-07,Lab results integration,Staff spending too much time on manual data entry,Low - nice to have,49,In development,Medium
+FR-1367,HC-1268,2025-03-01,Enhanced ePrescribing integration,"Patient portal adoption is low, too complex for elderly patients",Medium - workaround exists,25,Under review,High
+FR-1368,HC-1269,2025-08-31,Telemedicine video quality improvements,Reporting doesn't show metrics leadership needs,High - blocking workflow,12,Declined,High
+FR-1369,HC-1269,2025-04-29,Patient payment plans,Reporting doesn't show metrics leadership needs,Low - nice to have,41,In development,Critical
+FR-1370,HC-1270,2024-02-03,Lab results integration,"No-show rate impacting revenue, need better reminders",Medium - workaround exists,12,Declined,Low
+FR-1371,HC-1270,2024-10-27,Enhanced ePrescribing integration,EHR integration frequently breaks after Epic updates,High - blocking workflow,47,In development,High
+FR-1372,HC-1270,2024-09-21,Prior authorization automation,Insurance verification taking 15+ minutes per patient,Medium - workaround exists,40,In development,Low
+FR-1373,HC-1271,2025-06-27,Lab results integration,EHR integration frequently breaks after Epic updates,Medium - workaround exists,5,In development,Medium
+FR-1374,HC-1272,2024-01-27,Clinical decision support alerts,"Patient portal adoption is low, too complex for elderly patients",High - blocking workflow,14,Under review,High
+FR-1375,HC-1272,2025-06-21,Multi-location scheduling view,Scheduling conflicts between multiple providers,High - blocking workflow,34,In development,Critical
+FR-1376,HC-1272,2024-04-07,Clinical decision support alerts,"Patient portal adoption is low, too complex for elderly patients",Medium - workaround exists,48,Under review,High
+FR-1377,HC-1273,2025-08-19,Insurance eligibility real-time checks,"No-show rate impacting revenue, need better reminders",High - blocking workflow,17,In development,Medium
+FR-1378,HC-1274,2025-07-17,Telemedicine video quality improvements,EHR integration frequently breaks after Epic updates,Low - nice to have,1,Declined,Medium
+FR-1379,HC-1274,2025-07-19,Clinical decision support alerts,EHR integration frequently breaks after Epic updates,Medium - workaround exists,36,Under review,Medium
+FR-1380,HC-1274,2025-03-06,Insurance eligibility real-time checks,"Patient portal adoption is low, too complex for elderly patients",Medium - workaround exists,15,Under review,High
+FR-1381,HC-1276,2025-08-25,Enhanced ePrescribing integration,EHR integration frequently breaks after Epic updates,Medium - workaround exists,19,Under review,Low
+FR-1382,HC-1276,2025-01-04,Prior authorization automation,Reporting doesn't show metrics leadership needs,High - blocking workflow,42,In development,High
+FR-1383,HC-1276,2025-08-28,Telemedicine video quality improvements,"No-show rate impacting revenue, need better reminders",High - blocking workflow,5,In development,High
+FR-1384,HC-1276,2024-07-08,Multi-location scheduling view,EHR integration frequently breaks after Epic updates,Low - nice to have,19,Under review,Low
+FR-1385,HC-1278,2024-06-22,Telemedicine video quality improvements,"No-show rate impacting revenue, need better reminders",Medium - workaround exists,39,Under review,Medium
+FR-1386,HC-1278,2025-08-13,Referral tracking workflow,Cannot easily track referrals to specialists,Low - nice to have,5,Planned,Critical
+FR-1387,HC-1278,2025-03-16,Referral tracking workflow,Scheduling conflicts between multiple providers,Low - nice to have,12,Shipped,High
+FR-1388,HC-1279,2024-10-26,Lab results integration,Insurance verification taking 15+ minutes per patient,Medium - workaround exists,47,Declined,Low
+FR-1389,HC-1279,2025-08-15,Clinical decision support alerts,Compliance audit preparation is extremely time-consuming,High - blocking workflow,12,Declined,Critical
+FR-1390,HC-1279,2025-03-06,Clinical decision support alerts,Scheduling conflicts between multiple providers,Medium - workaround exists,36,Under review,Critical
+FR-1391,HC-1280,2024-07-14,Clinical decision support alerts,Insurance verification taking 15+ minutes per patient,Low - nice to have,12,Planned,Critical
+FR-1392,HC-1280,2024-09-11,Patient waitlist management,Staff spending too much time on manual data entry,High - blocking workflow,18,Planned,Critical
+FR-1393,HC-1281,2025-02-08,Patient waitlist management,"No-show rate impacting revenue, need better reminders",Medium - workaround exists,48,Under review,Critical
+FR-1394,HC-1282,2024-04-23,Enhanced ePrescribing integration,Billing staff overwhelmed with claim rejections,High - blocking workflow,34,In development,High
+FR-1395,HC-1282,2025-04-02,Patient waitlist management,Insurance verification taking 15+ minutes per patient,Low - nice to have,48,Under review,Medium
+FR-1396,HC-1282,2024-11-28,Prior authorization automation,Billing staff overwhelmed with claim rejections,Low - nice to have,33,Declined,Medium
+FR-1397,HC-1283,2024-07-25,Patient waitlist management,"No-show rate impacting revenue, need better reminders",Medium - workaround exists,18,In development,High
+FR-1398,HC-1284,2024-09-05,Patient payment plans,Cannot easily track referrals to specialists,Medium - workaround exists,29,Shipped,Critical
+FR-1399,HC-1286,2024-06-11,Enhanced ePrescribing integration,Staff spending too much time on manual data entry,Low - nice to have,5,Shipped,Medium
+FR-1400,HC-1292,2025-04-29,Telemedicine video quality improvements,EHR integration frequently breaks after Epic updates,Low - nice to have,24,Shipped,Medium
+FR-1401,HC-1296,2025-05-03,Prior authorization automation,Compliance audit preparation is extremely time-consuming,High - blocking workflow,38,Shipped,High
+FR-1402,HC-1297,2024-05-16,Enhanced ePrescribing integration,"No-show rate impacting revenue, need better reminders",Low - nice to have,10,Shipped,Low
+FR-1403,HC-1299,2025-06-05,Patient waitlist management,EHR integration frequently breaks after Epic updates,Medium - workaround exists,33,In development,Medium

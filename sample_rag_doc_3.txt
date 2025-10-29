@@ -1,0 +1,150 @@
+═══════════════════════════════════════════════════════
+COMPREHENSIVE CUSTOMER PROFILE: HC-1002
+═══════════════════════════════════════════════════════
+
+ORGANIZATION OVERVIEW
+━━━━━━━━━━━━━━━━━━━━
+Organization: Integrated Healthcare Partners
+Type: Clinic Network | Specialty: Orthopedics
+Segment: Mid-Market
+
+SCALE & SCOPE
+━━━━━━━━━━━━━
+• 42 Providers across 17 location(s)
+• 5,082 patients per month
+• Monthly Revenue: $24,769
+• Customer since: 2024-08-08 (44 months)
+
+TECHNOLOGY STACK
+━━━━━━━━━━━━━━━━
+• EHR System: Allscripts
+• Integration Status: ✓ Integrated
+• Implementation: Live
+• Compliance: [, ', H, I, P, A, A, ', ]
+
+ACCOUNT HEALTH
+━━━━━━━━━━━━━━
+• Health Score: 64/100 🟡 At Risk
+• Contract: Annual
+• Payment Status: Current
+• Champion: IT Director ✗ No Active Champion - RISK
+
+ENGAGEMENT & SUPPORT ANALYSIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Recent Support Activity (Last 10 interactions):
+• Total Tickets: 6
+• High Priority: 1
+• Escalations: 0
+• Negative Sentiment: 17% 
+• Average Resolution Time: 27.3 hours
+• Unresolved Tickets: 1
+
+Most Common Support Topics:
+• Insurance Verification: 2 tickets
+• Ehr Integration: 1 tickets
+• Telehealth Setup: 1 tickets
+
+⚠️ RECENT CRITICAL ISSUES:
+
+[2025-02-17] Ehr Integration
+Priority: HIGH | Sentiment: Frustrated
+Description: Epic integration stopped syncing patient appointments after last Allscripts update. Appointments from past 48 hours missing. This is causing significant disruption to patient care. IT Director escalat...
+Status: Resolved
+Staff Role Affected: Medical Assistant
+Patient Impact: Unknown
+---
+
+RECENT CONVERSATIONS & RELATIONSHIP NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[2025-09-02] Renewal Call
+Duration: 67 minutes | Attendees: Practice Manager
+Sentiment: Enthusiastic
+
+Notes:
+Renewal discussion - annual contract expiring in 60 days
+
+Overall satisfaction: medium
+Renewal likelihood: Moderate
+
+What's working:
+- Patient portal adoption increased from 12% to 47%
+
+Concerns raised:
+- Scheduling conflicts between multiple providers
+
+Renewal terms discussed: Addressing concerns before renewal
+Action needed: Executive escalation meeting scheduled
+
+
+Action Items: Send renewal quote by Friday | Schedule executive review if needed | Prepare case studies for board presentation
+
+
+─────────────────────────────────────────
+
+[2024-07-23] Support Escalation Call
+Duration: 75 minutes | Attendees: Operations Director
+Sentiment: Positive
+
+Notes:
+Check-in call with IT Director
+
+Usage stats reviewed: 42 providers active
+Recent support tickets: 2-3 tickets this month, mostly questions
+Training needs: Staff fully trained
+
+Feedback: Meeting expectations
+
+
+Action Items: Follow up next month
+
+
+─────────────────────────────────────────
+
+FEATURE REQUESTS & PRODUCT FEEDBACK
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[2024-12-21] Patient payment plans
+Business Impact: High - blocking workflow
+Pain Point: Insurance verification taking 15+ minutes per patient
+Urgency: Critical | Status: In development
+Community Votes: 40
+---
+
+[2024-03-07] Patient waitlist management
+Business Impact: Low - nice to have
+Pain Point: Staff spending too much time on manual data entry
+Urgency: Critical | Status: Shipped
+Community Votes: 24
+---
+
+[2024-02-24] Patient payment plans
+Business Impact: Medium - workaround exists
+Pain Point: Scheduling conflicts between multiple providers
+Urgency: Low | Status: Shipped
+Community Votes: 12
+---
+
+⚠️ RISK ASSESSMENT
+━━━━━━━━━━━━━━━━━
+🟡 At-risk health score (<70)
+🟡 No active champion identified
+🟡 Competitive threat: Using legacy system alongside
+
+OVERALL RISK LEVEL: 🟡 MEDIUM - Monitor Closely
+
+💡 GROWTH OPPORTUNITIES
+━━━━━━━━━━━━━━━━━━━━━
+✓ Multi-location practice - potential for enterprise upgrade
+
+📋 RECOMMENDED ACTIONS
+━━━━━━━━━━━━━━━━━━━━━
+
+IMMEDIATE (Next 48 hours):
+• Executive touchpoint with champion/decision maker
+• Review and address all open high-priority tickets
+• Schedule technical review if integration issues present
+
+═══════════════════════════════════════════════════════
+Document Generated: 2025-10-07 19:27:21
+═══════════════════════════════════════════════════════

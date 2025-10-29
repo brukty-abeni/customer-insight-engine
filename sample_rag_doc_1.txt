@@ -1,0 +1,145 @@
+═══════════════════════════════════════════════════════
+COMPREHENSIVE CUSTOMER PROFILE: HC-1000
+═══════════════════════════════════════════════════════
+
+ORGANIZATION OVERVIEW
+━━━━━━━━━━━━━━━━━━━━
+Organization: Regional Health Partners
+Type: Telehealth Provider | Specialty: Pediatrics
+Segment: SMB
+
+SCALE & SCOPE
+━━━━━━━━━━━━━
+• 8 Providers across 1 location(s)
+• 912 patients per month
+• Monthly Revenue: $1,360
+• Customer since: 2024-08-16 (43 months)
+
+TECHNOLOGY STACK
+━━━━━━━━━━━━━━━━
+• EHR System: Cerner
+• Integration Status: ✓ Integrated
+• Implementation: Full Adoption
+• Compliance: [, ', H, I, P, A, A, ', ,,  , ', S, t, a, t, e,  , P, r, i, v, a, c, y,  , L, a, w, s, ', ,,  , ', M, e, a, n, i, n, g, f, u, l,  , U, s, e, ', ]
+
+ACCOUNT HEALTH
+━━━━━━━━━━━━━━
+• Health Score: 47/100 🔴 Critical
+• Contract: Annual
+• Payment Status: Current
+• Champion: COO ✓ Active
+
+ENGAGEMENT & SUPPORT ANALYSIS
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+Recent Support Activity (Last 10 interactions):
+• Total Tickets: 7
+• High Priority: 4
+• Escalations: 0
+• Negative Sentiment: 100% ⚠️ CONCERN
+• Average Resolution Time: 54.6 hours
+• Unresolved Tickets: 0
+
+Most Common Support Topics:
+• Patient Portal: 3 tickets
+• Ehr Integration: 2 tickets
+• Insurance Verification: 1 tickets
+
+⚠️ RECENT CRITICAL ISSUES:
+
+[2025-08-06] Patient Portal
+Priority: HIGH | Sentiment: Frustrated
+Description: Patients reporting can't access lab results through portal. IT showing error: 'unauthorized access'. This is causing significant disruption to patient care. COO escalating....
+Status: Resolved
+Staff Role Affected: IT Admin
+Patient Impact: Unknown
+---
+
+[2025-02-17] Insurance Verification
+Priority: HIGH | Sentiment: Frustrated
+Description: Issue with insurance verification This is causing significant disruption to patient care. COO escalating....
+Status: Resolved
+Staff Role Affected: Practice Manager
+Patient Impact: Low
+---
+
+[2025-01-17] Ehr Integration
+Priority: HIGH | Sentiment: Negative
+Description: Medication reconciliation data from Cerner not flowing correctly. Providers seeing outdated medication lists. Staff productivity severely impacted. Need resolution ASAP....
+Status: Resolved
+Staff Role Affected: Provider
+Patient Impact: Unknown
+---
+
+RECENT CONVERSATIONS & RELATIONSHIP NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+[2025-04-23] Expansion Call
+Duration: 36 minutes | Attendees: Billing Manager
+Sentiment: Enthusiastic
+
+Notes:
+Expansion opportunity discussion
+            
+Currently using: Basic scheduling + billing modules
+Expressed interest in: Telehealth module and advanced analytics
+
+Drivers:
+- Expanding to telehealth post-COVID, need integrated solution
+- Board requesting better operational dashboards
+- 8 providers, growing to 18 next quarter
+
+Budget: $2040.0/mo approved for Q4
+Competition: Evaluating [competitor name] but prefer staying with us due to EHR integration
+
+Next steps: Demo advanced analytics next week, pricing proposal by Friday
+
+
+Action Items: Send proposal for telehealth module | Schedule demo with CMO and Operations | Prepare ROI analysis
+
+
+─────────────────────────────────────────
+
+[2024-07-16] Renewal Call
+Duration: 89 minutes | Attendees: Operations Director
+Sentiment: Enthusiastic
+
+Notes:
+Renewal discussion - annual contract expiring in 60 days
+
+Overall satisfaction: at-risk
+Renewal likelihood: At risk
+
+What's working:
+- Improved patient satisfaction scores by 23 points
+
+Concerns raised:
+- No-show rate impacting revenue, need better reminders
+
+Renewal terms discussed: Addressing concerns before renewal
+Action needed: Executive escalation meeting scheduled
+
+
+Action Items: Send renewal quote by Friday | Schedule executive review if needed | Prepare case studies for board presentation
+🎯 EXPANSION OPPORTUNITY IDENTIFIED
+
+─────────────────────────────────────────
+
+⚠️ RISK ASSESSMENT
+━━━━━━━━━━━━━━━━━
+🔴 Critical health score (<50)
+🔴 High negative sentiment in support interactions
+🟡 Competitive threat: nan
+
+OVERALL RISK LEVEL: 🟡 MEDIUM - Monitor Closely
+
+📋 RECOMMENDED ACTIONS
+━━━━━━━━━━━━━━━━━━━━━
+
+IMMEDIATE (Next 48 hours):
+• Executive touchpoint with champion/decision maker
+• Review and address all open high-priority tickets
+• Schedule technical review if integration issues present
+
+═══════════════════════════════════════════════════════
+Document Generated: 2025-10-07 19:27:21
+═══════════════════════════════════════════════════════

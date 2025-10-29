@@ -1,0 +1,26 @@
+CALL TRANSCRIPT
+Customer: Regional Health Partners (HC-1000)
+Date: 2025-04-23
+Duration: 36 minutes
+Type: expansion
+Participants: Billing Manager (Customer), CSM Team
+
+[00:01:30]
+Billing Manager: "I wanted to share some good news - our staff is saving about 10 hours per week on scheduling. The team is really happy with the results."
+
+[00:02:15]
+CSM: "That's fantastic to hear! What do you think made the biggest difference?"
+
+[00:03:00]
+Billing Manager: "Honestly, once we got past the initial learning curve, the mobile app has been a game-changer. The billing team loves the workflow."
+
+[00:04:30]
+Billing Manager: "Actually, I wanted to ask about the referral management feature. We're looking to expand and I've heard good things from other practices about that capability."
+
+[00:05:45]
+CSM: "Absolutely! Let me set up a demo for you next week. Given your success with the current setup, I think you'll find a lot of value in those features. Many practices your size see additional $50K+ in recovered revenue."
+
+[00:07:00]
+Billing Manager: "Perfect. Also, our CFO asked me to be a reference for you if you need one. We're really happy with the ROI we're seeing."
+
+Call Sentiment: Very positive - expansion opportunity + reference potential
