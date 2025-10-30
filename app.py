@@ -452,8 +452,8 @@ rag_docs = load_rag_documents()
 gemini_model = init_gemini()
 
 # Sidebar
-with st.sidebar:
-     st.markdown("### 🏥 CS Intelligence")
+with st. sidebar:
+    st.markdown("### 🏥 CS Intelligence")
     
     st.markdown("### 💬 AI Chat Assistant")
     st.write("Ask me anything about your customers!")
