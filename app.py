@@ -453,7 +453,7 @@ gemini_model = init_gemini()
 
 # Sidebar
 with st.sidebar:
-    st.image("https://via.placeholder.com/150x50/1f77b4/ffffff?text=CS+AI", use_container_width=True)
+     st.markdown("### 🏥 CS Intelligence")
     
     st.markdown("### 💬 AI Chat Assistant")
     st.write("Ask me anything about your customers!")
